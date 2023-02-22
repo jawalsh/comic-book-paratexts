@@ -1,8 +1,18 @@
 object_location,image_small,image_thumb
+/objects/1963_01_04.jpg,/objects/small/1963_01_04_sm.jpg,/objects/thumbs/1963_01_04_th.jpg
 /objects/R0000009.JPG,/objects/small/r0000009_sm.jpg,/objects/thumbs/r0000009_th.jpg
 /objects/animal_man_8_cover.png,/objects/small/animal_man_8_cover_sm.jpg,/objects/thumbs/animal_man_8_cover_th.jpg
+/objects/cbp_001.png,/objects/small/cbp_001_sm.jpg,/objects/thumbs/cbp_001_th.jpg
 /objects/cbp_002.png,/objects/small/cbp_002_sm.jpg,/objects/thumbs/cbp_002_th.jpg
 /objects/cbp_003.png,/objects/small/cbp_003_sm.jpg,/objects/thumbs/cbp_003_th.jpg
+/objects/cbp_004.png,/objects/small/cbp_004_sm.jpg,/objects/thumbs/cbp_004_th.jpg
+/objects/cbp_005.png,/objects/small/cbp_005_sm.jpg,/objects/thumbs/cbp_005_th.jpg
+/objects/cbp_006.png,/objects/small/cbp_006_sm.jpg,/objects/thumbs/cbp_006_th.jpg
+/objects/cbp_007.jpg,/objects/small/cbp_007_sm.jpg,/objects/thumbs/cbp_007_th.jpg
+/objects/cbp_008.jpg,/objects/small/cbp_008_sm.jpg,/objects/thumbs/cbp_008_th.jpg
+/objects/cbp_009.jpg,/objects/small/cbp_009_sm.jpg,/objects/thumbs/cbp_009_th.jpg
+/objects/cbp_010.jpg,/objects/small/cbp_010_sm.jpg,/objects/thumbs/cbp_010_th.jpg
+/objects/cbp_011.png,/objects/small/cbp_011_sm.jpg,/objects/thumbs/cbp_011_th.jpg
 /objects/comics-code-authority-logo-vector-5.jpg,/objects/small/comics-code-authority-logo-vector-5_sm.jpg,/objects/thumbs/comics-code-authority-logo-vector-5_th.jpg
 /objects/contents1.png,/objects/small/contents1_sm.jpg,/objects/thumbs/contents1_th.jpg
 /objects/contents2.png,/objects/small/contents2_sm.jpg,/objects/thumbs/contents2_th.jpg
@@ -19,7 +29,5 @@ object_location,image_small,image_thumb
 /objects/strange_tales_181_dedication.png,/objects/small/strange_tales_181_dedication_sm.jpg,/objects/thumbs/strange_tales_181_dedication_th.jpg
 /objects/strange_tales_181_title.png,/objects/small/strange_tales_181_title_sm.jpg,/objects/thumbs/strange_tales_181_title_th.jpg
 /objects/sub-mariner_38_cover.png,/objects/small/sub-mariner_38_cover_sm.jpg,/objects/thumbs/sub-mariner_38_cover_th.jpg
-/objects/sub-mariner_38_dedication.png,/objects/small/sub-mariner_38_dedication_sm.jpg,/objects/thumbs/sub-mariner_38_dedication_th.jpg
-/objects/sub-mariner_38_title.png,/objects/small/sub-mariner_38_title_sm.jpg,/objects/thumbs/sub-mariner_38_title_th.jpg
 /objects/superman_33_2014-09.jpeg,,
 /objects/superman_33_2014-09.png,/objects/small/superman_33_2014-09_sm.jpg,/objects/thumbs/superman_33_2014-09_th.jpg
