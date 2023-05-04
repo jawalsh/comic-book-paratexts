@@ -1,6 +1,6 @@
 object_location,image_small,image_thumb
 /objects/1963_01_04.jpg,/objects/small/1963_01_04_sm.jpg,/objects/thumbs/1963_01_04_th.jpg
-/objects/R0000009.JPG,/objects/small/r0000009_sm.jpg,/objects/thumbs/r0000009_th.jpg
+/objects/R0000009.jpg,/objects/small/r0000009_sm.jpg,/objects/thumbs/r0000009_th.jpg
 /objects/animal_man_8_cover.png,/objects/small/animal_man_8_cover_sm.jpg,/objects/thumbs/animal_man_8_cover_th.jpg
 /objects/cbp_001.png,/objects/small/cbp_001_sm.jpg,/objects/thumbs/cbp_001_th.jpg
 /objects/cbp_002.png,/objects/small/cbp_002_sm.jpg,/objects/thumbs/cbp_002_th.jpg
@@ -19,6 +19,9 @@ object_location,image_small,image_thumb
 /objects/cbp_015.jpg,/objects/small/cbp_015_sm.jpg,/objects/thumbs/cbp_015_th.jpg
 /objects/cbp_016.jpg,/objects/small/cbp_016_sm.jpg,/objects/thumbs/cbp_016_th.jpg
 /objects/cbp_017.jpg,/objects/small/cbp_017_sm.jpg,/objects/thumbs/cbp_017_th.jpg
+/objects/cbp_018.jpg,/objects/small/cbp_018_sm.jpg,/objects/thumbs/cbp_018_th.jpg
+/objects/cbp_019.jpg,/objects/small/cbp_019_sm.jpg,/objects/thumbs/cbp_019_th.jpg
+/objects/cbp_020.jpg,/objects/small/cbp_020_sm.jpg,/objects/thumbs/cbp_020_th.jpg
 /objects/comics-code-authority-logo-vector-5.jpg,/objects/small/comics-code-authority-logo-vector-5_sm.jpg,/objects/thumbs/comics-code-authority-logo-vector-5_th.jpg
 /objects/contents1.png,/objects/small/contents1_sm.jpg,/objects/thumbs/contents1_th.jpg
 /objects/contents2.png,/objects/small/contents2_sm.jpg,/objects/thumbs/contents2_th.jpg
@@ -35,4 +38,5 @@ object_location,image_small,image_thumb
 /objects/strange_tales_181_dedication.png,/objects/small/strange_tales_181_dedication_sm.jpg,/objects/thumbs/strange_tales_181_dedication_th.jpg
 /objects/strange_tales_181_title.png,/objects/small/strange_tales_181_title_sm.jpg,/objects/thumbs/strange_tales_181_title_th.jpg
 /objects/sub-mariner_38_cover.png,/objects/small/sub-mariner_38_cover_sm.jpg,/objects/thumbs/sub-mariner_38_cover_th.jpg
+/objects/superman_33_2014-09.jpg,/objects/small/superman_33_2014-09_sm.jpg,/objects/thumbs/superman_33_2014-09_th.jpg
 /objects/superman_33_2014-09.png,/objects/small/superman_33_2014-09_sm.jpg,/objects/thumbs/superman_33_2014-09_th.jpg
