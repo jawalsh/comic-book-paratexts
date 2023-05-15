@@ -40,6 +40,8 @@ object_location,image_small,image_thumb
 /objects/cbp_040.jpg,/objects/small/cbp_040_sm.jpg,/objects/thumbs/cbp_040_th.jpg
 /objects/cbp_041.jpg,/objects/small/cbp_041_sm.jpg,/objects/thumbs/cbp_041_th.jpg
 /objects/cbp_042.jpg,/objects/small/cbp_042_sm.jpg,/objects/thumbs/cbp_042_th.jpg
+/objects/cbp_043.jp2,,
+/objects/cpb_043.jpg,/objects/small/cpb_043_sm.jpg,/objects/thumbs/cpb_043_th.jpg
 /objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
 /objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
 /objects/demo_003.mp3,,
