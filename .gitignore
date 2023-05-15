@@ -16,30 +16,6 @@ Gemfile.lock
 
 # Ignore objects directory to avoid committing binary files (other than demo files)
 # if you would like to commit your objects to github, delete the line below!
-objects/cbp_*
-objects/small/
-objects/thumbs/
-objects/cpb_043.jpg
-objects/thumbs/210a_th.jpg
-objects/thumbs/210b_th.jpg
-objects/thumbs/demo_001_th.jpg
-objects/thumbs/demo_002_th.jpg
-objects/thumbs/demo_003_th.jpg
-objects/thumbs/demo_004_th.jpg
-objects/thumbs/hells_half_theta_th.jpg
-objects/thumbs/hughes_article_th.jpg
-objects/thumbs/210a_th.jpg
-objects/thumbs/210b_th.jpg
-objects/thumbs/demo_001_th.jpg
-objects/thumbs/demo_002_th.jpg
-objects/thumbs/demo_003_th.jpg
-objects/thumbs/demo_004_th.jpg
-objects/thumbs/hells_half_theta_th.jpg
-objects/thumbs/hughes_article_th.jpg
-objects/thumbs/hells_half_theta_th.jpg
-objects/thumbs/demo_004_th.jpg
-objects/thumbs/demo_003_th.jpg
-objects/thumbs/demo_002_th.jpg
-objects/thumbs/demo_001_th.jpg
-objects/thumbs/210b_th.jpg
-objects/thumbs/210a_th.jpg
+objects/
+small/
+thumbs/
