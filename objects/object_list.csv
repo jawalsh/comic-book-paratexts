@@ -1,6 +1,4 @@
 object_location,image_small,image_thumb
-/objects/210a.jpg,/objects/small/210a_sm.jpg,/objects/thumbs/210a_th.jpg
-/objects/210b.jpg,/objects/small/210b_sm.jpg,/objects/thumbs/210b_th.jpg
 /objects/cbp_001.png,/objects/small/cbp_001_sm.jpg,/objects/thumbs/cbp_001_th.jpg
 /objects/cbp_002.png,/objects/small/cbp_002_sm.jpg,/objects/thumbs/cbp_002_th.jpg
 /objects/cbp_003.png,/objects/small/cbp_003_sm.jpg,/objects/thumbs/cbp_003_th.jpg
@@ -31,7 +29,6 @@ object_location,image_small,image_thumb
 /objects/cbp_031.jpg,/objects/small/cbp_031_sm.jpg,/objects/thumbs/cbp_031_th.jpg
 /objects/cbp_032.jpg,/objects/small/cbp_032_sm.jpg,/objects/thumbs/cbp_032_th.jpg
 /objects/cbp_033.jpg,/objects/small/cbp_033_sm.jpg,/objects/thumbs/cbp_033_th.jpg
-/objects/cbp_034 2.jpg,/objects/small/cbp_034 2_sm.jpg,/objects/thumbs/cbp_034 2_th.jpg
 /objects/cbp_034.jpg,/objects/small/cbp_034_sm.jpg,/objects/thumbs/cbp_034_th.jpg
 /objects/cbp_034.png,/objects/small/cbp_034_sm.jpg,/objects/thumbs/cbp_034_th.jpg
 /objects/cbp_036.jpg,/objects/small/cbp_036_sm.jpg,/objects/thumbs/cbp_036_th.jpg
@@ -41,10 +38,4 @@ object_location,image_small,image_thumb
 /objects/cbp_041.jpg,/objects/small/cbp_041_sm.jpg,/objects/thumbs/cbp_041_th.jpg
 /objects/cbp_042.jpg,/objects/small/cbp_042_sm.jpg,/objects/thumbs/cbp_042_th.jpg
 /objects/cbp_043.jp2,,
-/objects/cpb_043.jpg,/objects/small/cpb_043_sm.jpg,/objects/thumbs/cpb_043_th.jpg
-/objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
-/objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
-/objects/demo_003.mp3,,
-/objects/demo_004.jpg,/objects/small/demo_004_sm.jpg,/objects/thumbs/demo_004_th.jpg
-/objects/hells_half_theta.jpg,/objects/small/hells_half_theta_sm.jpg,/objects/thumbs/hells_half_theta_th.jpg
-/objects/hughes_article.png,/objects/small/hughes_article_sm.jpg,/objects/thumbs/hughes_article_th.jpg
+/objects/cbp_043.jpg,/objects/small/cbp_043_sm.jpg,/objects/thumbs/cbp_043_th.jpg
