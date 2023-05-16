@@ -1,4 +1,5 @@
 object_location,image_small,image_thumb
+/objects/20230516082420746_0003.jpg,/objects/small/20230516082420746_0003_sm.jpg,/objects/thumbs/20230516082420746_0003_th.jpg
 /objects/cbp_001.png,/objects/small/cbp_001_sm.jpg,/objects/thumbs/cbp_001_th.jpg
 /objects/cbp_002.png,/objects/small/cbp_002_sm.jpg,/objects/thumbs/cbp_002_th.jpg
 /objects/cbp_003.png,/objects/small/cbp_003_sm.jpg,/objects/thumbs/cbp_003_th.jpg
@@ -39,3 +40,9 @@ object_location,image_small,image_thumb
 /objects/cbp_042.jpg,/objects/small/cbp_042_sm.jpg,/objects/thumbs/cbp_042_th.jpg
 /objects/cbp_043.jp2,,
 /objects/cbp_043.jpg,/objects/small/cbp_043_sm.jpg,/objects/thumbs/cbp_043_th.jpg
+/objects/cbp_045.jpg.jpg,/objects/small/cbp_045.jpg_sm.jpg,/objects/thumbs/cbp_045.jpg_th.jpg
+/objects/cbp_046.jpg,/objects/small/cbp_046_sm.jpg,/objects/thumbs/cbp_046_th.jpg
+/objects/cbp_047.jpg,/objects/small/cbp_047_sm.jpg,/objects/thumbs/cbp_047_th.jpg
+/objects/cbp_048.jpg,/objects/small/cbp_048_sm.jpg,/objects/thumbs/cbp_048_th.jpg
+/objects/cbp_049.jpg,/objects/small/cbp_049_sm.jpg,/objects/thumbs/cbp_049_th.jpg
+/objects/cbp_050.jpg,/objects/small/cbp_050_sm.jpg,/objects/thumbs/cbp_050_th.jpg
