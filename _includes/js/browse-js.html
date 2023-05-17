@@ -129,7 +129,21 @@ function shuffle(array) {
 /* init browse page */
 
 /* randomize items once at page load */
-shuffle(items);
+// shuffle(items);
+//Find the sortFilter element and grab its text and turn it into lowercase
+const sortFilterElement = document.getElementById("sortFilter").innerHTML.toLowerCase();
+// Find the dropdown item with the data-filter attribute that matches the lowercase value
+const matchingDropdownItem = document.querySelector(".dropdown-item[data-filter='" + sortFilterElement + "']");
+if (matchingDropdownItem) {
+    //sort the items by the sortFilterElement
+    sorting(items,sortFilterElement);
+    // add an active class to the matching dropdown item
+    matchingDropdownItem.classList.add("active");
+    }
+    else {
+        // shuffle the items if there is no matchingDropdownITem
+        shuffle(items);
+    }
 
 /* set some elements */ 
 var loadingIcon = document.querySelector("#loadingIcon");
