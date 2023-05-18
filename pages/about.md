@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="cbp_034" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About Comic Book Paratexts;About the Editor" %}
 
-## About CollectionBuilder CSV
+## About Comic Book Paratexts
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s *Paratexts: Thresholds of Interpretation* (1987, 1997)—include titles, dust jackets, prefaces, tables of contents, indices, notes, and epigraphs. Paratextual elements can influence the reception and interpretation of a text. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+In the comic book, the “text” is the sequential art, the comics narrative composed of panels, artwork, word balloons, captions, and more. Comic book paratexts include components already mentioned (titles, notes, etc.) along with other elements like advertisements, fan mail, publisher news, and editorial pages. In his essay “Superhero Comics and the Authorizing Functions of the Comic Book Paratext” (2013), Daniel Stein describes comic book paratexts as “productive contact zones between producers and consumers, authors and readers” (p. 160).
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This collection aims to provide illustrative examples of the many types of paratexts found in American comic books.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="cbp_039" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
+## About the Editor
+
+[John A. Walsh](http://johnwalsh.name) is the Director of the [HathiTrust Research Center](https://www.hathitrust.org/htrc) and Associate Professor of [Information and Library Science](http://ils.indiana.edu/) in the [Luddy School of Informatics, Computing, and Engineering](http://sice.indiana.edu/) at Indiana University. His research applies computational methods to the study of literary and historical documents. Walsh is an editor of digital scholarly editions, including: the [Petrarchive](http://petrarchive.org/), the [Algernon Charles Swinburne Project](http://swinburneproject.org/), and the [Chymistry of Isaac Newton](http://chymistry.org/). He developed [Comic Book Markup Language](http://cbml.org/) (CBML) for scholarly encoding of comics and graphic novels, and [TEI Boilerplate](http://teiboilerplate.org/), for publishing documents encoded according to the Text Encoding Initiative (TEI) [Guidelines for Electronic Text Encoding and Interchange](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html). He is the founding Technical Editor and a current General Editor of [Digital Humanities Quarterly](http://digitalhumanities.org/dhq), an open-access online journal published by the [Alliance of Digital Humanities Organizations](http://adho.org/). Walsh’s research interests include: computational literary studies; textual studies and bibliography; text technologies; book history; 19th-century British literature, poetry and poetics; and comic books.
