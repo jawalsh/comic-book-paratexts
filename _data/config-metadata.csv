@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+paratext type,Paratext type,,,,
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
@@ -10,5 +11,6 @@ longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
+gcd link,GCD ID,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
