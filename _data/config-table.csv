@@ -1,5 +1,11 @@
 field,display_name
+objectid,Identifier
 title,Title
+creator,Creators
 date,Date
 description,Description
 subject,Subjects
+paratext type, Paratext Type
+tag,Tags
+source,Source
+gcd id,Grand Comics Database Identifier
