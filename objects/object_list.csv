@@ -4,7 +4,9 @@ object_location,image_small,image_thumb
 /objects/cbp_002.png,/objects/small/cbp_002_sm.jpg,/objects/thumbs/cbp_002_th.jpg
 /objects/cbp_003.png,/objects/small/cbp_003_sm.jpg,/objects/thumbs/cbp_003_th.jpg
 /objects/cbp_004.png,/objects/small/cbp_004_sm.jpg,/objects/thumbs/cbp_004_th.jpg
+/objects/cbp_005.jpg,/objects/small/cbp_005_sm.jpg,/objects/thumbs/cbp_005_th.jpg
 /objects/cbp_005.png,/objects/small/cbp_005_sm.jpg,/objects/thumbs/cbp_005_th.jpg
+/objects/cbp_006.jpg,/objects/small/cbp_006_sm.jpg,/objects/thumbs/cbp_006_th.jpg
 /objects/cbp_006.png,/objects/small/cbp_006_sm.jpg,/objects/thumbs/cbp_006_th.jpg
 /objects/cbp_007.jpg,/objects/small/cbp_007_sm.jpg,/objects/thumbs/cbp_007_th.jpg
 /objects/cbp_008.jpg,/objects/small/cbp_008_sm.jpg,/objects/thumbs/cbp_008_th.jpg
@@ -60,3 +62,15 @@ object_location,image_small,image_thumb
 /objects/cbp_063.jpg,/objects/small/cbp_063_sm.jpg,/objects/thumbs/cbp_063_th.jpg
 /objects/cbp_065.jpg,/objects/small/cbp_065_sm.jpg,/objects/thumbs/cbp_065_th.jpg
 /objects/cbp_066.jpg,/objects/small/cbp_066_sm.jpg,/objects/thumbs/cbp_066_th.jpg
+/objects/cbp_068.jpg,/objects/small/cbp_068_sm.jpg,/objects/thumbs/cbp_068_th.jpg
+/objects/cbp_069.jpg,/objects/small/cbp_069_sm.jpg,/objects/thumbs/cbp_069_th.jpg
+/objects/cbp_070.jpg,/objects/small/cbp_070_sm.jpg,/objects/thumbs/cbp_070_th.jpg
+/objects/cbp_071.jpg,/objects/small/cbp_071_sm.jpg,/objects/thumbs/cbp_071_th.jpg
+/objects/cbp_073.jpg,/objects/small/cbp_073_sm.jpg,/objects/thumbs/cbp_073_th.jpg
+/objects/cbp_074.jpg,/objects/small/cbp_074_sm.jpg,/objects/thumbs/cbp_074_th.jpg
+/objects/cbp_075.jpg,/objects/small/cbp_075_sm.jpg,/objects/thumbs/cbp_075_th.jpg
+/objects/cbp_076.jpg,/objects/small/cbp_076_sm.jpg,/objects/thumbs/cbp_076_th.jpg
+/objects/cbp_077.jpg,/objects/small/cbp_077_sm.jpg,/objects/thumbs/cbp_077_th.jpg
+/objects/cbp_079.jpg,/objects/small/cbp_079_sm.jpg,/objects/thumbs/cbp_079_th.jpg
+/objects/cbp_080.jpg,/objects/small/cbp_080_sm.jpg,/objects/thumbs/cbp_080_th.jpg
+/objects/cbp_081.jpg,/objects/small/cbp_081_sm.jpg,/objects/thumbs/cbp_081_th.jpg
