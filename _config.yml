@@ -51,7 +51,7 @@ metadata: comic-book-paratexts-metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Indiana University"
-organization-link: https://johnwalsh.name/
+organization-link:
 organization-logo-banner: assets/img/cbp-logo.png
 organization-logo-nav: assets/img/cbp-logo.png
 
