@@ -191,7 +191,8 @@ objectid	parentid	title	scope note	creator	date	description	paratext type	tag	so
 	<td>M</td>
 	<td>NR</td>
 	<td></td>
-	<td><code>image/jpeg</code><br/><code>image/png</code><br/><code>image/svg+xml</code></td>
+	<td><ul style="list-style-type: '- ';">
+		<li><code>image/jpeg</code></li><li><code>image/png</code></li><li><code>image/svg+xml</code></li></ul></td>
 </tr>
 <tr>
 	<td>language</td>
