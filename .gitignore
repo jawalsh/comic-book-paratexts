@@ -22,3 +22,6 @@ thumbs/
 build.sh
 num2csv.scpt
 objects/README.md
+objects
+objects/object_list.csv
+objects/object_list.csv
