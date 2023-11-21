@@ -1,233 +1,29 @@
-<!-- 
-| Element Name | Dublin Core Mapping | Value Scheme | Obligation | Occurence | Input Guidelines | Examples |
-
-| objectid      | Identifier  | | M|NR| objectid should be in the form `cbp_NNN`, where NNN is a sequential 3-digit zero-padded number           |    `cbp_001`<br/>`cbp_027`<br/>`cbp_239`      |
-| parentid      | Relation | |MA|NR|            |          | 
-| title         | Title       | | M| R|            |          |
-| scope         |             | |  |  |            |          |
-| note          |             | |  |  |            |          |
-| description   | Description | | M|NR|            |          |
-| creator       | Creator     | [LC Name Authority File](https://id.loc.gov/authorities/names.html) (LCNAF) |  | R|            |     <span style="white-space: nowrap;">`Kirby, Jack`</span><br/><span style="white-space: nowrap;">`Windsor-Smith, Barry`</span><br/>`Romita, John, Jr.`<br/>`Wolverton, Basil`     |
-| date          | Date        | [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)| MA |NR|   |            |
-| paratext type | Subject   | |MA| R|            |            |
-| tag           | Subject   | |MA| R|            |            |
-| source        | Source    | |MA|NR|            |            |
-| gcd id        | Relation  | |MA|NR| Find the specific issue at the Grand Comics Database at [comics.org](https://comics.org). The `gcd id` is the number following `https://www.comics.org/issue/` in the URL. For example, for _Fantastic Four_ #11, the URL to the issue is <https://www.comics.org/issue/17516/>, and the `gcd id` is `17516`.          |`99`<br/>`17516`<br/>`293`<br/>`601`            |
-| type          | Type      | |MA|NR|            |            |
-| format        | Format    | [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml) | M|NR|   | `image/jpeg`<br/>`image/png`<br/>`image/svg+xml` |  
-|language       | Language  | [ISO 639-1 3-letter Language Codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) | M| R|        |  `eng`<br/>`fre`         |
-| rights        | Rights    | |  |  |            |            |
-| rightsstatement | Rights    | |  |  |            |            |
-
-
-objectid	parentid	title	scope note	creator	date	description	paratext type	tag	source	gcd id	gcd link	type	format	language	rights	rightsstatement	display_template	object_location	image_small	image_thumb
--->
-
-<table>
-<colgroup>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-</colgroup>
-
-<thead>
-<tr>
-	<th>Element Name</th>
-	<th>Dublin Core Mapping</th>
-	<th>Value Scheme</th>
-	<th>Obligation</th>
-	<th>Occurence</th>
-	<th>Input Guidelines</th>
-	<th>Examples</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>objectid</td>
-	<td>Identifier</td>
-	<td></td>
-	<td>M</td>
-	<td>NR</td>
-	<td>objectid should be in the form <code>cbp_NNN</code>, where NNN is a sequential 3-digit zero-padded number</td>
-	<td>
-		<ul style="list-style-type: '- ';">
-			<li><code>cbp_001</code></li>
-			<li><code>cbp_027</code></li>
-			<li><code>cbp_239</code></li>
-		</ul>	
-	</td>
-</tr>
-<tr>
-	<td>parentid</td>
-	<td>Relation</td>
-	<td></td>
-	<td>MA</td>
-	<td>NR</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>title</td>
-	<td>Title</td>
-	<td></td>
-	<td>M</td>
-	<td>R</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>scope</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>note</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>description</td>
-	<td>Description</td>
-	<td></td>
-	<td>M</td>
-	<td>NR</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>creator</td>
-	<td>Creator</td>
-	<td><a href="https://id.loc.gov/authorities/names.html">LC Name Authority File</a> (LCNAF)</td>
-	<td></td>
-	<td>R</td>
-	<td></td>
-	<td>
-		<ul style="list-style-type: '- ';">
-			<li style="white-space: nowrap;"><code>Kirby, Jack</code></li>
-			<li style="white-space: nowrap;"><code>Windsor-Smith, Barry</code>
-			<li style="white-space: nowrap;"><code>Romita, John, Jr.</code></li>
-			<li style="white-space: nowrap;"><code>Wolverton, Basil</code></li>
-		</ul>
-	</td>
-</tr>
-<tr>
-	<td>date</td>
-	<td>Date</td>
-	<td><a href="https://www.w3.org/TR/NOTE-datetime">W3C Date and Time Formats</a></td>
-	<td>MA</td>
-	<td>NR</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>paratext type</td>
-	<td>Subject</td>
-	<td></td>
-	<td>MA</td>
-	<td>R</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>tag</td>
-	<td>Subject</td>
-	<td></td>
-	<td>MA</td>
-	<td>R</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>source</td>
-	<td>Source</td>
-	<td></td>
-	<td>MA</td>
-	<td>NR</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>gcd id</td>
-	<td>Relation</td>
-	<td></td>
-	<td>MA</td>
-	<td>NR</td>
-	<td>Find the specific issue at the Grand Comics Database at <a href="https://comics.org">comics.org</a>. The <code>gcd id</code> is the number following <code>https://www.comics.org/issue/</code> in the URL. For example, for <em>Fantastic Four</em> #11, the URL to the issue is <a class="autolink" href="https://www.comics.org/issue/17516/">https://www.comics.org/issue/17516/</a>, and the <code>gcd id</code> is <code>17516</code>.</td>
-	<td>
-		<ul style="list-style-type: '- ';">
-			<li><code>99</code></li>
-			<li><code>17516</code></li>
-			<li><code>293</code></li>
-			<li><code>601</code></li>
-		</ul>
-	</td>
-</tr>
-<tr>
-	<td>type</td>
-	<td>Type</td>
-	<td></td>
-	<td>MA</td>
-	<td>NR</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>format</td>
-	<td>Format</td>
-	<td><a href="https://www.iana.org/assignments/media-types/media-types.xhtml">IANA Media Types</a></td>
-	<td>M</td>
-	<td>NR</td>
-	<td></td>
-	<td><ul style="list-style-type: '- ';">
-		<li><code>image/jpeg</code></li><li><code>image/png</code></li><li><code>image/svg+xml</code></li></ul></td>
-</tr>
-<tr>
-	<td>language</td>
-	<td>Language</td>
-	<td><a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639-1 3-letter Language Codes</a></td>
-	<td>M</td>
-	<td>R</td>
-	<td></td>
-	<td><ul style="list-style-type: '- ';"><li><code>eng</code></li><li><code>fre</code></li></ul></td>
-</tr>
-<tr>
-	<td>rights</td>
-	<td>Rights</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>rightsstatement</td>
-	<td>Rights</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-</tbody>
-</table>
+| **Element Name**  | **Dublin Core Mapping** | **Value Scheme**                                                                                               | **Obligation** | **Occurence** | **Input Guidelines**                                                                                                                                                                                                                                                                                                                                                       | Examples                                                                                                                                                                                                                                                                                                                    |
+| ----------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| objectid          | Identifier              |                                                                                                                | M              | NR            | objectid should be in the form cbp_NNN, where NNN is a sequential 3-digit zero-padded number                                                                                                                                                                                                                                                                               | <ul><li>`cbp_001`</li><li>`cbp_027`</li><li>`cbp_239`</li></ul>                                                                                                                                                                                                                                                                                   |
+| parentid          | Relation                |                                                                                                                | MA             | NR            | Include for objects w/in a compound object. Should appear as the objectid of the compound object in which it is contained.                                                                                                                                                                                                                                                 | <ul><li>`cbp_001`</li></ul>                                                                                                                                                                                                                                                                                                               |
+| title             | Title                   |                                                                                                                | M              | R             | Combines ‘paratext type,’ ‘source,’ and scope fields. Title should appear in the form: [paratext type]: [source]. {Scope}                                                                                                                                                                                                                                                  | <ul><li>`Correspondence: "Let’s Level with Daredevil.” Daredevil #36 (January 1968). Marvel comics.<br/>Publisher’s peritext: Justice Society of America #4 (July 2023). DC Comics.`</li><li>`Advertisement: “Honor House Products.” Dennis the Menace and His Friends Series #10 (June 1971). Fawcett Publications. Full page.`</li></ul>        |
+| scope             |                         |                                                                                                                | MA             | NR            | Include for objects w/in a compound object. Describe the extent of the image.                                                                                                                                                                                                                                                                                              | <ul><li>`Full page`</li><li>`Detail`</li></ul>                                                                                                                                                                                                                                                                                                  |
+| note              |                         |                                                                                                                |                |               |                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                         |
+| description       | Description             |                                                                                                                | M              | NR            | Briefly describe the object in question and what it contains.                                                                                                                                                                                                                                                                                                              | <ul><li>`“Bullseye is finally here,” advertisement for The Charlton Bullseye prozine with mail-in form for subscriptions to Charlton comics.`</li><li>`“Pin-up” illustration following main feature.`</li></ul>                                                                                                                                   |
+| creator           | Creator                 | [LC Name Authority File](https://id.loc.gov/authorities/names.html) (LCNAF)                                    | MA             | R             | Follow format provided on LCNAF. If multiple creators, separate by semicolons.                                                                                                                                                                                                                                                                                             | <ul><li>`Kirby, Jack`</li><li>`Windsor-Smith, Barry`</li><li>`Romita, John, Jr.`</li><li>`Wolverton, Basil`</li></ul>                                                                                                                                                                                                                                         |
+| date              | Date                    | [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)                                               | MA             | NR            | [Year]-{[Month]}                                                                                                                                                                                                                                                                                                                                                           | <ul><li>`1954-06`</li><li>`1963`</li></ul>                                                                                                                                                                                                                                                                                                        |
+| paratext type     | Subject                 |                                                                                                                | MA             | R             | See metadata profile companion (forthcoming)                                                                                                                                                                                                                                                                                                                               | <ul><li>`Correspondence`</li><li>`Advertisement`</li></ul>                                                                                                                                                                                                                                                                                        |
+| tag               | Subject                 |                                                                                                                | MA             | R             | See metadata profile companion (forthcoming)                                                                                                                                                                                                                                                                                                                               | <ul><li>`gender`</li><li>`reader-contributed content`</li></ul>                                                                                                                                                                                                                                                                                   |
+| source            | Source                  |                                                                                                                | MA             | NR            | “[Paratext Heading/Title]” [Comic series] #[issue number] ([Full month] [Year]). [Publisher]                                                                                                                                                                                                                                                                               | <ul><li>`Animal Man #8 (February 1989). DC Comics.`</li><li>`Adventure Comics #485 (September 1981). DC Comics.`</li></ul>                                                                                                                                                                                                                        |
+| image_source      |                         |                                                                                                                | MA             | NR            | [Website or repository of image]                                                                                                                                                                                                                                                                                                                                           | <ul><li>`Personal collection`</li><li>`Comic Book Plus`</li><li>`Digital Comic Museum`</li><li>`Internet Archive`</li></ul>                                                                                                                                                                                                                                   |
+| image_source_link |                         |                                                                                                                | MA             | NR            | Include for images sourced from websites. [URL for page from which the source was retrieved]                                                                                                                                                                                                                                                                               | <ul><li>[https://comicbookplus.com/?dlid=62348](https://comicbookplus.com/?dlid=62348)</li><li>[https://digitalcomicmuseum.com/index.php?dlid=1014](https://digitalcomicmuseum.com/index.php?dlid=1014)</lu></ul>                                                                                                                             |
+| gcd id            | Relation                |                                                                                                                | MA             | NR            | Find the specific issue at the Grand Comics Database at [comics.org](http://comics.org). The gcd id is the number following [https://www.comics.org/issue/](https://www.comics.org/issue/) in the URL. For example, for _Fantastic Four_ #11, the URL to the issue is [https://www.comics.org/issue/17516/](https://www.comics.org/issue/17516/), and the gcd id is 17516. | <ul><li>`99`</li><li>`17516`</li><li>`293`</li><li>`601`</li></ul>                                                                                                                                                                                                                                                                                            |
+| type              | Type                    | [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/) | MA             | NR            | Follow format on DCMI. If multiple, separate by semicolon. Usually just Image and StillImage.                                                                                                                                                                                                                                                                              | <ul><li>`Image;StillImage`</li><li>`Text`</li></ul>                                                                                                                                                                                                                                                                                              |
+| format            | Format                  | [IANA Media Types](https://www.iana.org/assignments/media-types/media-types.xhtml)                             | M              | NR            | Follow format on IANA                                                                                                                                                                                                                                                                                                                                                      | <ul><li>`image/jpeg`</li><li>`image/png`</li><li>`image/svg+xml`</li></ul>                                                                                                                                                                                                                                                                              |
+| language          | Language                | [ISO 639-1 3-letter Language Codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)                     | M              | R             |                                                                                                                                                                                                                                                                                                                                                                            | <ul><li>`eng`</li><li>`fre`</li></ul>                                                                                                                                                                                                                                                                                                             |
+| rights            | Rights                  |                                                                                                                |                |               |                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                         |
+| rightsstatement   | Rights                  | [RightsStatements.org](https://rightsstatements.org/page/1.0/?language=en)                                     |                |               |                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                         |
 
 **Legend**
-<ul style="list-style-type: '- ';">
+<ul>
 	<li><code>M</code>  Mandatory</li>
-<li><code>MA</code> Mandatory, if applicable</li>
-<li><code>R</code>  Repeatable</li>
+    <li><code>MA</code> Mandatory, if applicable</li>
+        <li><code>R</code>  Repeatable</li>
 <li><code>NR</code> Not repeatable</li>
 </ul>
