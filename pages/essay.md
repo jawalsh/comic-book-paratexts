@@ -46,9 +46,9 @@ Some comparative examples from traditional literary texts and comics illustrate 
 
 <!-- https://archive.org/details/beforesunrisongs00swinrich/ -->
 
-This is the cover of Songs Before Sunrise by Victorian poet Algernon Charles Swinburne. The cover was designed by poet and artist Dante Gabriel Rossetti. The volume includes a number of political poems in support of Italy's struggles for independence in the 19th century. Rossetti is a Italian-British poet and artist, a member of the Pre-Raphaelite Brotherhood, an influential of young rebellious artists, and a close friends of Swinburne’s. The cover design by Rossetti acknowledges and emphasizes a number of relationships, associations, and influences.
+In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy's struggles for independence in the 19th century. The cover was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a member of the Pre-Raphaelite Brotherhood, an influential of young rebellious artists. The cover design by Rossetti acknowledges and emphasizes a number of relationships, associations, and influences.
 
-## slide 8
+<!-- to do: Cover of Cap. America #193 -->
 
 ## slide 9
 - series title
