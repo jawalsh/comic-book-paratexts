@@ -52,6 +52,8 @@ A cover from a 1970s Marvel comic book explicitly and implicitly provides a weal
 
 <!-- to do: Cover of Cap. America #193 -->
 
+{% include feature/image.html objectid="cpb_901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
+
 ## slide 9
 - series title
 - story title
