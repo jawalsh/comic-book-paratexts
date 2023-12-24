@@ -42,7 +42,7 @@ The second category is _**epitexts**_, those paratexts that exist outside the ph
 
 Some comparative examples from traditional literary texts and comics illustrate these concepts.
 
-{% include feature/image.html objectid="assets/img/swinburne-sbs-cover.png" width="75" alt="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti." caption="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti. Image from the Internet Archive: https://archive.org/details/beforesunrisongs00swinrich/."%}
+{% include feature/image.html objectid="assets/img/swinburne-sbs-cover.jpg" width="75" alt="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti." caption="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti. Image from the Internet Archive: https://archive.org/details/beforesunrisongs00swinrich/."%}
 
 <!-- https://archive.org/details/beforesunrisongs00swinrich/ -->
 
