@@ -55,7 +55,7 @@ A cover from a 1970s Marvel comic book explicitly and implicitly provides a weal
 
 This cover includes information on creators not found elsewhere in the document. For instance, the formal credits on the interior splash page (See fig. x) omit John Romita, who inkied Jack Kirby’s pencils for the document’s cover (see fig. ) .
 
-{% include feature/image.html objectid="cbp_904" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Interior splash page credits to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
+{% include feature/image.html objectid="cbp_902" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Interior splash page credits to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
 ## slide 10
 - signed work, creators names
