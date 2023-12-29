@@ -48,21 +48,14 @@ Some comparative examples from traditional literary texts and comics illustrate 
 
 In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy's struggles for independence in the 19th century. The cover was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a member of the Pre-Raphaelite Brotherhood, an influential of young rebellious artists. The cover design by Rossetti acknowledges and emphasizes Swinburne’s personal relationship with Rossetti and his affiliation with the Pre-Raphaelite artists and poets.
 
-A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. On the cover of _Captain America_ #193
-
+A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover includes the series title, “Captain America”; a story title, “‘Madbomb’: It Can Destroy the World!”; biblographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); price (25¢); content advisory, “Approved by the Comics Code Authority”; artists’ names (“J. Kirby + J. Romita”), and publisher’s announcement on the return of longtime artist Jack Kirby, “King Kirby is back -- and greater than ever!”.
 <!-- to do: Cover of Cap. America #193 -->
 
 {% include feature/image.html objectid="cbp_901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-## slide 9
-- series title
-- story title
-- publisher
-- promotional blurb about a creator, Kirby
-- price 
-- issue number
-- month
-- content seal of approval
+This cover includes information on creators not found elsewhere in the document. For instance, the formal credits on the interior splash page (See fig. x) omit John Romita, who inkied Jack Kirby’s pencils for the document’s cover (see fig. ) .
+
+{% include feature/image.html objectid="cbp_904" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Interior splash page credits to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
 ## slide 10
 - signed work, creators names
