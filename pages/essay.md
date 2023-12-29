@@ -53,20 +53,14 @@ A cover from a 1970s Marvel comic book explicitly and implicitly provides a weal
 
 {% include feature/image.html objectid="cbp_901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-This cover includes information on creators not found elsewhere in the document. For instance, the formal credits on the interior splash page (See fig. x) omit John Romita, who inkied Jack Kirby’s pencils for the document’s cover (see fig. ) .
+This cover includes information on creators not found elsewhere in the document. For instance, the formal credits on the interior splash page (See fig. x) omit John Romita, who inked Jack Kirby’s pencils for the document’s cover (see fig. ) .
 
 {% include feature/image.html objectid="cbp_902" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Interior splash page credits to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
 {% include feature/image.html objectid="cbp_905" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Artists’ signatures on the cover Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-## slide 10
-- signed work, creators names
-- only place we see Romita
+The rather inconspicuous seal of the Comics Code Authority signals the fraught and complicated history of the 1950s campaign against comics, spearheaded by psychologist Frederic Wertham. Wertham argued that comics were . Senate hearings. Librarians. Comics Code Authority. 
 
-## slide 11
-- content advisories
-- comics code authorization
-- Of course the presence of the small comics code seal as a paratext carries with it an enormous load of important political and cultural baggage.
 
 ## slide 12
 - the interior title page or splash page contains other implications
