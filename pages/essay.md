@@ -59,13 +59,11 @@ This cover includes information on creators not found elsewhere in the document.
 
 {% include feature/image.html objectid="cbp_905" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Artists’ signatures on the cover Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-The rather inconspicuous seal of the Comics Code Authority signals the fraught and complicated history of the 1950s campaign against comics, spearheaded by psychologist Frederic Wertham. Wertham argued that comics were . Senate hearings. Librarians. Comics Code Authority. 
+The rather inconspicuous seal of the Comics Code Authority, present on the cover of most American comics from 19XX to XXX, signals the fraught and complicated history of the 1950s campaign against comics, spearheaded by psychologist Frederic Wertham. Wertham argued that comics were . Senate hearings. Librarians. Comics Code Authority. 
 
 
-## slide 12
-- the interior title page or splash page contains other implications
-- We often have an alternate story title, as in this case. The cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!”
-- So we now have two paratextual titles competing with, commenting on, and amplifying one another.
+The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
+
 
 ## slide 13
 - In the credits in the top third of the page and the indicia below, we have important bibliographic information:
