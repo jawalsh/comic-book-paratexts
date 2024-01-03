@@ -61,18 +61,13 @@ This cover includes information on creators not found elsewhere in the document.
 
 The rather inconspicuous seal of the Comics Code Authority, present on the cover of most American comics from 19XX to XXX, signals the fraught and complicated history of the 1950s campaign against comics, spearheaded by psychologist Frederic Wertham. Wertham argued that comics were . Senate hearings. Librarians. Comics Code Authority. 
 
+{% include feature/image.html objectid="cbp_908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision."%}
+
 
 The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
 
+The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
 
-## slide 13
-- In the credits in the top third of the page and the indicia below, we have important bibliographic information:
-	- creators
-	- publisher
-	- publisher location and address
-	- volume and issue number
-	- date
-	- legal disclaimers and more
 
 ## slide 14
 Genette includes interior title pages, chapter titles, secttion titles, etc. as paratexts, and we find these also in comics.
