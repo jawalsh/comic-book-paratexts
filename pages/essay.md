@@ -68,11 +68,11 @@ The interior splash page, a standard feature of many mainstream commercial comic
 
 The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
 
+Genette’s paratext categories include “intertitles,” or interior titles such as chapter and section titles, and we find many examples of these in comics.
 
-## slide 14
-Genette includes interior title pages, chapter titles, secttion titles, etc. as paratexts, and we find these also in comics.
+{% include feature/image.html objectid="cbp_023" width="75" alt="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)" caption="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)"%}
 
-- Here's a chapter title from a DC Kamandi Comic
+{% include feature/image.html objectid="cbp_090" width="75" alt="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics." caption="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics."%}
 
 ## slide 15
 An interior title from a Golden Age anthology comics, Fantastic Comics #15
