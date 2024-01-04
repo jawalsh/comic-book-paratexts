@@ -74,8 +74,7 @@ Genette’s paratext categories include “intertitles,” or interior titles su
 
 {% include feature/image.html objectid="cbp_090" width="75" alt="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics." caption="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics."%}
 
-## slide 15
-An interior title from a Golden Age anthology comics, Fantastic Comics #15
+{% include feature/image.html objectid="cbp_915" width="75" alt="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox." caption="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox."%}
 
 ## slide 17: Dedications
 From Victorian poet. In the first case a book is dedicated to the Pre-Raphaelite artist Edward Burne Jones. Below a poem is written for the birthday of Victor Hugo, one of Swinburne's literary heroes.
