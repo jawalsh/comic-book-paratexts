@@ -81,7 +81,7 @@ Dedications are another type of paratext discussed by Genette and a common featu
 
 {% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866)" caption="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866). Image from the Internet Archive: https://archive.org/details/b29012685/."%}
 
-{% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
+{% include feature/image.html objectid="assets/img/swinburne-sots-birthday-ode.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
 
 
 
