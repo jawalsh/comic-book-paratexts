@@ -76,8 +76,15 @@ Genette’s paratext categories include “intertitles,” or interior titles su
 
 {% include feature/image.html objectid="cbp_915" width="75" alt="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox." caption="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox."%}
 
-## slide 17: Dedications
-From Victorian poet. In the first case a book is dedicated to the Pre-Raphaelite artist Edward Burne Jones. Below a poem is written for the birthday of Victor Hugo, one of Swinburne's literary heroes.
+## Dedications
+Dedications are another type of paratext discussed by Genette and a common feature of traditional literary texts. Again we draw examples from Swinburne. In the first case we see the dedicattion to the painter Edward Burne Jones, a close friend of Swinburne. The dedication is from Swinburne’s most famous volume, _Poems and Ballads_ (1866). A second example is an implied dedication to one of Swinburne’s literary heroes, Victor Hugo, on the occasion of Hugo’s 78th birthday.
+
+{% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866)" caption="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866). Image from the Internet Archive: https://archive.org/details/b29012685/."%}
+
+{% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
+
+
+
 
 ## slide 18
 - Starlin dedicating a story to Ditko. You have the implied visual dedication to Ditko with Adam Warlock position in a typical Ditko-esque universe. But there is also the explicit written paratextual dedication, “This story is dedicated to Steve Ditko, who gave us all a different reality.”
