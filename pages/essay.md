@@ -83,6 +83,19 @@ Dedications are another type of paratext discussed by Genette and a common featu
 
 {% include feature/image.html objectid="assets/img/swinburne-sots-birthday-ode.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
 
+While they are not as frequent as in non-graphic literary texts such as novels, plays, and volumes of poetry, dedications are also present in comics books. As in the three examples below, comic book dedictions often indicate a debt of gratitude to comics creators from an earlier generation.  In the first example, writer Roy Thomas dedications a Sub-Mariner story from _Sub-Mariner_ #32 (June 1971) to Bill Everett, who in 1939 created the Sub-Mariner character. Everett passed away less than two years after the publication of this dedication, in February 1973, at the age of 55. In the second example below, writer/artist Jim Starlin dedicates a story featuring the character Adam Warlock, from _Strange Tales_ #181 (August 1975), to artist Steve Ditko. The dedication appears on [a page](/items/cbp_067.html#cbp_068) drawn by Starlin featuring Adam Warlock set in a psychedelic dreamscape that echoes similar dreamscapes introduced by Ditko in his work on Marvel’s Doctor Strange, who first appeared in the same title in _Strange Tales_ #110 (July 1963).
+
+{% include feature/image.html objectid="cbp_006" width="75" alt="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics." caption="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics."%}
+
+{% include feature/image.html objectid="cbp_069" width="75" alt="A dedication to Steve Ditko in Strange Tales #181 (August 1975). Marvel Comics.A dedication to Steve Ditko in Strange Tales #181 (August 1975). Marvel Comics."%}
+
+{% include feature/image.html objectid="cbp_006" width="75" alt="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics." caption="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics."%}
+
+{% include feature/image.html objectid="cbp_003" width="75" alt="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics." caption="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics."%}
+
+
+
+
 
 
 
