@@ -97,11 +97,13 @@ Grant Morrison’s dedication in _Animal Man_ #8 (February 1989) bucks conventio
 
 {% include feature/image.html objectid="cbp_003" width="75" alt="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics." caption="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics."%}
 
-Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound book-length documentary comic _Kent State: Four Dead in Ohio_ (2020).
+Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound book-length documentary comic _Kent State: Four Dead in Ohio_ (2020). Interestingly, this dedication, appearing in a hardbound book, visually and rhetorically is closer to a formal dedication found in a traditional literary work than to the in-panel dedications found in the “floppy” comic books.
 
 {% include feature/image.html objectid="cbp_918" width="75" alt="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)." caption="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)."%}
 
 ## Epigraphs
+
+
 
 
 
