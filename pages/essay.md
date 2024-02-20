@@ -93,16 +93,20 @@ Another example is writer/artist Jim Starlin’s dedication to artist Steve Ditk
 
 {% include feature/image.html objectid="cbp_069" width="75" alt="A dedication to Steve Ditko in Strange Tales #181 (August 1975). Marvel Comics." caption="A dedication to Steve Ditko in Strange Tales #181 (August 1975). Marvel Comics."%}
 
+Grant Morrison’s dedication in _Animal Man_ #8 (February 1989) bucks convention by including fictional character Barry Allen among comics creators John Broome, Gardner Fox, and Carmine Infantino.
+
 {% include feature/image.html objectid="cbp_003" width="75" alt="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics." caption="A dedication to “John Broome, Gardner Fox, Carmine Infantino and the late, great Barry Allen” in Animal Man #8 (February 1989). DC Comics."%}
 
+Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound book-length documentary comic _Kent State: Four Dead in Ohio_ (2020).
+
+## Epigraphs
 
 
 
 
 
 
-## slide 18
-- Starlin dedicating a story to Ditko. You have the implied visual dedication to Ditko with Adam Warlock position in a typical Ditko-esque universe. But there is also the explicit written paratextual dedication, “This story is dedicated to Steve Ditko, who gave us all a different reality.”
+
 
 # Works Cited
 
