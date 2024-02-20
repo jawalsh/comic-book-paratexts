@@ -99,6 +99,8 @@ Grant Morrison’s dedication in _Animal Man_ #8 (February 1989) bucks conventio
 
 Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound book-length documentary comic _Kent State: Four Dead in Ohio_ (2020).
 
+{% include feature/image.html objectid="cbp_918" width="75" alt="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)." caption="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)."%}
+
 ## Epigraphs
 
 
