@@ -103,6 +103,19 @@ Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound
 
 ## Epigraphs
 
+Epigraphs, which are short quotations, often with a bibliographic citation for the source of the quotation, at the beginning of a book, chapter, or poem. Like dedications to literary and artistic figures, epigraphs can suggest creative debt or influence. They also designate a specific intertextual relationship between the quoted text and the work in which the epigraph appears. There are at least three agents involved in an epigraph, as described by Genette:
+
+> [T]he attribution of the quotation raises two theoretically distinct questions, although neither is as simple as it appears to be: Who is the author, real or putative, of the text quoted? Who chooses and proposes that quotation? I will call the author the _epigraphed_; and the person who chooses or proposes, I will call the _epigrapher_, or sender of the epigraph (its addressee — no doubt the reader of the text - being, if you insist, the _epigraphee_). (pp. 150-151)
+
+Genette goes on to identify four functions of an epigraph. 
+
+1. “elucidating and thereby justifying not the text but the _title_” (p. 156);
+2. “commenting on the _text_” (p. 157); 
+3. implicitly dedicating the work to the individual quoted (p. 159);
+4. marking, by an epigraph’s presence or absence, “the period, the genre, or the tenor” of a piece of writing (p. 160).
+
+Below are two examples from
+
 
 
 
