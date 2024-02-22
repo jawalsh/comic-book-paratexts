@@ -114,15 +114,13 @@ Genette goes on to identify four functions of an epigraph.
 3. implicitly dedicating the work to the individual quoted (p. 159);
 4. marking, by an epigraph’s presence or absence, “the period, the genre, or the tenor” of a piece of writing (p. 160).
 
-Below are two examples from
+Below is another nineteenth-century example from Swinburne. At the head of his poem “Anactoria” from his 1866 volume _Poems and Ballads_, Swinburne quotes the Greek poet Sappho. “Anactoria” is a dramatic monologue in which the speaker, Sappho, addresses her lover, Anactoria. The epigraph is Swinburne’s “Anactoria” seems to me to accomplish all the functions set by Genette. The identification of Sappho in the epigraph certainly elucidates, amplifies, and justifies the poem’s title. 
+
+>                 τίνος αὖ τὺ πειθοῖ  
+> μὰψ σαγηνεύσασ φιλότατα ;   
+>                                  <span style="font-variant: small-caps;">Sappho.</span>
 
 {% include feature/image.html objectid="assets/img/swinburne-anactoria-epigraph.jpg" width="75" alt="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866)." caption="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/uc2.ark:/13960/t17m0815m."%}
-
-
-
-
-
-
 
 # Works Cited
 
