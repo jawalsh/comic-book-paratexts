@@ -116,8 +116,7 @@ Genette goes on to identify four functions of an epigraph.
 
 Below are two examples from
 
-
-
+{% include feature/image.html objectid="assets/img/swinburne-anactoria-epigraph.jpg" width="75" alt="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866)." caption="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/uc2.ark:/13960/t17m0815m."%}
 
 
 
