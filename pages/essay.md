@@ -19,12 +19,7 @@ The table of contents to Genette's book is a sort of taxonomy of paratexts, with
 
 <!-- table of contents -->
 
-In most cases, he discusses the *function* of the particular type of paratext. For instance, Gennette identifies four functions of an epigraph:
-
-> 1. function of "commenting … and thus of elucidating and thereby justifying … the *title*," or the reverse "when the title modifies the meaning of the epigraph."(156-157)
-> 2. "commenting upon the *text*, whose meaning it indirectly specifies or emphasizes." (157)
-> 3. providing "the sense of indirect backing" of the author quoted.
-> 4. marking "the period, the genre, or the tenor of a piece of writing," since epigraphs are more in fashion in particular periods, genres or tenors. 
+In most cases, he discusses the *function* of the particular type of paratext. For instance, Genette write, “the basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
 
 In the comic book, the “text” is the sequential art, the comics narrative composed of panels, artwork, word balloons, captions, and more. Comic book paratexts include components already mentioned (titles, notes, etc.) along with other elements like advertisements, letters of comment (i.e., fan mail), and publisher news and editorial pages (e.g., DC’s “Direct Currents” or Marvel’s “Bullpen Bulletins).
 
