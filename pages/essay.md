@@ -121,6 +121,16 @@ The epigraph to Swinburne’s “Anactoria” seems to me to accomplish all the 
 
 # Works Cited
 
+<style type="text/css">
+.bibl {
+	text-indent: -2em;
+	padding-left: 2em;
+}
+</style>
 <div class="bibl">
-Genette, G. (1997). Paratexts: Thresholds of Interpretation (J. E. Lewin, Trans.). Cambridge UP. 
+Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. Lewin, Trans.). Cambridge UP. 
 </div>
+<div class="bibl">
+Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
+
+
