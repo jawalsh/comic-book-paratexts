@@ -157,7 +157,7 @@ Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. 
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
 </div>
 <div class="bibl">
-Shelley, Percy Bysshe (1819). Ozymandias. In _Rosalind and Helen, a modern eclogue; with other poems_. C. and J. Ollier.
+Shelley, Percy Bysshe (1819). Ozymandias. In _Rosalind and Helen, a modern eclogue; with other poems_. C. and J. Ollier. <https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33>
 </div>
 
 
