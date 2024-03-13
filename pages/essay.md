@@ -117,7 +117,28 @@ Below is another nineteenth-century example from Swinburne. At the head of his p
 
 {% include feature/image.html objectid="assets/img/swinburne-anactoria-epigraph.jpg" width="75" alt="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866)." caption="Epigraph quoting Greek poet Sappho, from Algernon Charles Swinburne’s “Anactoria” (1866). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/uc2.ark:/13960/t17m0815m."%}
 
-The epigraph to Swinburne’s “Anactoria” seems to me to accomplish all the functions set by Genette. The identification of Sappho in the epigraph certainly elucidates, amplifies, and justifies the poem’s title. Haynes notes, “The epigraph is an emendation, perhaps Swinburne’s own, of a corrupt line in [Sappho’s] Aphrodite Ode; Swinburne’s version means, ‘Whose love have you caught in vain by persuasion?’” (p. 333).
+The epigraph to Swinburne’s “Anactoria” accomplishes all the functions set by Genette. The poem is a tortured and passionate address by Sappho, and the identification of Sappho in the epigraph elucidates, amplifies, and justifies the poem’s title. Haynes notes, “The epigraph is an emendation, perhaps Swinburne’s own, of a corrupt line in [Sappho’s] Aphrodite Ode; Swinburne’s version means, ‘Whose love have you caught in vain by persuasion?’” (p. 333). In the Aphrodite Ode, the speaker calls upon the goddess Aphrodite for aid in the pursuit of an unnamed lover. Thus, both Swinburne’s poem and Sappho’s amplify one another. 
+
+Among Swinburne’s many literary heroes is the Romantic poet Percy Bysshe Shelley. We find an excellent example of a comic book epigraph in Roy Thomas’s use of Shelley’s sonnet “Ozymandias” (1818) in _Avengers_ #57 (October 1968).
+
+{% include feature/image.html objectid="cbp_110" width="75" alt="A terminal epigraph quoting the whole of Percy Bysshe Shelley’s sonnet “Ozymandias” (1818) from Avengers #57 (October 1968)" caption="A terminal epigraph quoting the whole of Percy Bysshe Shelley’s sonnet “Ozymandias” (1818) from Avengers #57 (October 1968)"%}
+
+Below is the full text of Shelley’s poem:
+
+> <span style="font-variant: small-caps;">I met</span> a traveller from an antique land  
+> Who said: Two vast and trunkless legs of stone  
+> Stand in the desart. Near them, on the sand,      
+> Half sunk, a shattered visage lies, whose frown,  
+> And wrinkled lip, and sneer of cold command,    
+> Tell that its sculptor well those passions read  
+> Which yet survive, stamped on these lifeless things,  
+> The hand that mocked them and the heart that fed:  
+> And on the pedestal these words appear:  
+> “My name is Ozymandias, King of Kings:  
+> Look on my works, ye Mighty, and despair!”  
+> No thing beside remains. Round the decay  
+> Of that colossal wreck, boundless and bare  
+> The lone and level sands stretch far away.  
 
 
 
@@ -134,5 +155,9 @@ Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. 
 </div>
 <div class="bibl">
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
+</div>
+<div class="bibl">
+Shelley, Percy Bysshe (1819). Ozymandias. In _Rosalind and Helen, a modern eclogue; with other poems_. C. and J. Ollier.
+</div>
 
 
