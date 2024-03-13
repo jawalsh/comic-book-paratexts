@@ -119,6 +119,8 @@ Below is another nineteenth-century example from Swinburne. At the head of his p
 
 The epigraph to Swinburne’s “Anactoria” seems to me to accomplish all the functions set by Genette. The identification of Sappho in the epigraph certainly elucidates, amplifies, and justifies the poem’s title. Haynes notes, “The epigraph is an emendation, perhaps Swinburne’s own, of a corrupt line in [Sappho’s] Aphrodite Ode; Swinburne’s version means, ‘Whose love have you caught in vain by persuasion?’” (p. 333).
 
+
+
 # Works Cited
 
 <style type="text/css">
