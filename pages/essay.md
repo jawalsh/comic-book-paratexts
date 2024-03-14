@@ -148,7 +148,7 @@ Below is the full text of Shelley’s poem:
 ### Advertisements
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze age comic could contain a dozen or more small advertisements.
 
-
+{% include feature/image.html objectid="cbp_919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)."%}
 
 ### Publisher’s paratext: editorials and news
 
