@@ -101,6 +101,20 @@ Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound
 
 {% include feature/image.html objectid="cbp_918" width="75" alt="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)." caption="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)."%}
 
+Many comic book advertisements coopt formal elements from comics. For example, the advertisement below for “Big Jim’s P.A.C.K.” action figures This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons.
+
+<!-- add Big Jim’s P.A.C.K. -->
+
+A 1968 advertisement for International Correspondence Schools (ICS) completely abandons traditional ad copy, format, and structure, instead employing the comics format to tell the fictional story of a high school dropout who becomes a success by using the advertised product. 
+
+<!-- add from FF #78 -->
+
+Those interested in topics such as gender roles in comics will find much of interest in comics advertisements. The advertisement below is recruiting comic book readers to sell _Grit_ newspaper in their neighborhood. The recruiting message is addressed to “Fellows” and continues “If you’re a boy 12 years old or older, you can be a happy, prosperous GRIT salesman.” The mail-in form asks, “Are you a boy?” 
+
+Later versions of this advertisement would replace “Look, Fellows!” with “Look, Friends!” and “Are You a Boy?” with “Male or Female?”
+
+<!-- paused -->
+
 ### Epigraphs
 
 Epigraphs, which are short quotations, often with a bibliographic citation for the source of the quotation, at the beginning of a book, chapter, or poem. Like dedications to literary and artistic figures, epigraphs can suggest creative debt or influence. They also designate a specific intertextual relationship between the quoted text and the work in which the epigraph appears. There are at least three agents involved in an epigraph, as described by Genette:
@@ -146,7 +160,9 @@ Below is the full text of Shelley’s poem:
 > The lone and level sands stretch far away.  
 
 ### Advertisements
-For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze age comic could contain a dozen or more small advertisements.
+For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
+
+The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
 
 {% include feature/image.html objectid="cbp_919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)."%}
 
