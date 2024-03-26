@@ -174,6 +174,11 @@ The single double-page spread below includes 37 separate advertisements. The siz
 
 ### Appendices
 
+Appendices are among the most fascinating comic book paratexts. Genette does not have a separate section for “documentary” paratexts, but in his conclusion he writes, “[T]his inventory of paratextual elements remains incomplete … For instance, certain elements of the documentary paratext that re characteristic of didactic works are sometimes appended, with or without playful intent, to works of fiction” (p. 404). He goes on to list a number of examples: 
+
+> Senancour's Oberman includes a sort of thematic index called “Indications,” arranged in alphabetical order (*Adversité, Aisance, Amitié* [Adversity, Ease, Friendship] …); *Moby-Dick* opens with a comprehensive documentary dossier about whales; Updike's *Bech: A Book* ends with an imaginary bibliography of works by and studies about the hero (the studies are attributed apocryphally to real critics); the “appendix” of Perec's *Vie mode d’emploi* [*Life: A User's Manual*] contains a floor plan of the building, an index of persons and places, a chronology, a list of authors quoted, and an “Alphabetical Checklist of Some of the Stories Narrated in this Manual.” Novelistic works like Zola's *Rougon-Macquart*, Thackeray's *Henry Esmond*, Nabokov's *Ada*, or Renaud Camus's *Roman roi* contain family trees constructed by the authors themselves. For the *Portable Faulkner* of 1946, Faulkner drew a map of Yoknapatawpha County; and Umberto Eco drew a plan of the abbey in The *Name of the Rose*. (pp. 404-405)
+
+
 ## Epitexts
 
 
