@@ -178,6 +178,10 @@ Appendices are among the most fascinating comic book paratexts. Genette does not
 
 > Senancour's Oberman includes a sort of thematic index called “Indications,” arranged in alphabetical order (*Adversité, Aisance, Amitié* [Adversity, Ease, Friendship] …); *Moby-Dick* opens with a comprehensive documentary dossier about whales; Updike's *Bech: A Book* ends with an imaginary bibliography of works by and studies about the hero (the studies are attributed apocryphally to real critics); the “appendix” of Perec's *Vie mode d’emploi* [*Life: A User's Manual*] contains a floor plan of the building, an index of persons and places, a chronology, a list of authors quoted, and an “Alphabetical Checklist of Some of the Stories Narrated in this Manual.” Novelistic works like Zola's *Rougon-Macquart*, Thackeray's *Henry Esmond*, Nabokov's *Ada*, or Renaud Camus's *Roman roi* contain family trees constructed by the authors themselves. For the *Portable Faulkner* of 1946, Faulkner drew a map of Yoknapatawpha County; and Umberto Eco drew a plan of the abbey in The *Name of the Rose*. (pp. 404-405)
 
+The “documentary” paratexts are conceptually coloser to the “text” than many other comic book paratexts, like fan correspondence and advertisements. They typically share the same creators (writers, artists, pencillers, inkers, colorists, letterers) as the main comics text. They are also relevant to the comics narrative. For instance, a map of the “Hyperborian Age of Conan” adds spatial contexts to stories about Robert E. Howards fictional world and its inhabitants. Simlarly, a sectional view of the Baxter Building, headquarters of Marvel’s Fantastic Four superhero team, provides spatial contexts to narratives about the Fantastic Four. 
+
+Less narrative-focused documentary paratexts include “pin-up” pages of popular characters, often with explanatory text and bibliographic details about notabler appearances of the character.
+
 
 ## Epitexts
 
