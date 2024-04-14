@@ -22,7 +22,7 @@ In literary studies, the paratext refers to textual and documentary components s
 
 In the comic book, the “text” is the sequential art, the comics narrative composed of panels, artwork, word balloons, captions, and more. Comic book paratexts include components already mentioned (titles, notes, etc.) along with other elements like advertisements, fan mail, publisher news, and editorial pages. In his essay “Superhero Comics and the Authorizing Functions of the Comic Book Paratext” (2013), Daniel Stein describes comic book paratexts as “productive contact zones between producers and consumers, authors and readers” (p. 160).
 
-For a more extensive overview of paratexts and comic book paratexts, please see the [introductory essay](essay.md).
+For a more extensive overview of paratexts and comic book paratexts, please see the [introductory essay](essay.html).
 
 
 
