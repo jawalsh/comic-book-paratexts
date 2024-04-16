@@ -1,12 +1,12 @@
 ---
 title: Metadata Profile for Comic Book Paratexts
-layout: data
+layout: about
 permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
 # Metadata Profile for _Comic Book Paratexts_
-
+<div>
 <table class="table-striped">
 <colgroup>
 <col/>
@@ -204,6 +204,7 @@ credits: true
 </tr>
 </tbody>
 </table>
+</div>
 
 ---
 
