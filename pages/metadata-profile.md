@@ -205,18 +205,8 @@ credits: true
 </tbody>
 </table>
 
-<p><strong>Legend</strong>
-<ul>
- <li><code>M</code> Mandatory</li>
- <li><code>MA</code> Mandatory, if applicable</li>
- <li><code>R</code> Repeatable</li>
-<li><code>NR</code> Not repeatable</li>
-</ul></p>
-
 **Legend**
-<ul>
-	<li><code>M</code>  Mandatory</li>
-    <li><code>MA</code> Mandatory, if applicable</li>
-        <li><code>R</code>  Repeatable</li>
-<li><code>NR</code> Not repeatable</li>
-</ul>
+- `M` Mandatory
+- `MA` Mandatory, if applicable
+- `R` Repeatable
+- `NR` Not repeatable
