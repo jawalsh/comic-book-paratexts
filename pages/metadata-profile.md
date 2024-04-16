@@ -1,6 +1,6 @@
 ---
 title: Metadata Profile for Comic Book Paratexts
-layout: about
+layout: data
 permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
@@ -204,6 +204,8 @@ credits: true
 </tr>
 </tbody>
 </table>
+
+---
 
 **Legend**
 - `M` Mandatory
