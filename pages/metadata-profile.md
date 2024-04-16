@@ -7,16 +7,8 @@ credits: true
 ---
 <div>
 <h1>Metadata Profile for <cite>Comic Book Paratexts</cite></h1>
-<table class="table-striped">
-<colgroup>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-</colgroup>
+<div class="table-responsive">
+<table class="table table-sm table-striped">
 
 <thead>
 <tr>
@@ -146,7 +138,7 @@ credits: true
 	<td>MA</td>
 	<td>NR</td>
 	<td>Include for images sourced from websites. [URL for page from which the source was retrieved]</td>
-	<td><ul><li><a href="https://comicbookplus.com/?dlid=62348">https://comicbookplus.com/?dlid=62348</a></li><li><a href="https://digitalcomicmuseum.com/index.php?dlid=1014">https://digitalcomicmuseum.com/index.php?dlid=1014</a></lu></ul></td>
+	<td><ul><li><a href="https://comicbookplus.com/?dlid=62348">https://comicbookplus.com/?dlid=62348</a></li><li><a href="https://digitalcomicmuseum.com/index.php?dlid=1014">https://digitalcomicmuseum.com/index.php?dlid=1014</a></li></ul></td>
 </tr>
 <tr>
 	<td>gcd id</td>
@@ -204,6 +196,7 @@ credits: true
 </tr>
 </tbody>
 </table>
+</div>
 <div>
 <h2>Legend</h2>
 
