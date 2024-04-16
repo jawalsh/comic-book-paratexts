@@ -205,6 +205,7 @@ credits: true
 </tbody>
 </table>
 </div>
+<div>
 
 ---
 
@@ -213,3 +214,4 @@ credits: true
 - `MA` Mandatory, if applicable
 - `R` Repeatable
 - `NR` Not repeatable
+</div>
