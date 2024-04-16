@@ -186,6 +186,7 @@ Documentary paratexts are not uncommon in comics, and they are of particular int
 
 Less narrative-focused documentary paratexts include “pin-up” pages of popular characters, often with explanatory text and bibliographic details about notabler appearances of the character. Like the sectional views of the Fantastic Four’s Baxter building, these pin-ups also serve as reference material, with a short biography of the featured character and bibliographic information about the character’s first appearance.
 
+{% include feature/image.html objectid="cbp_071" width="75" alt="“The Hyperborian Age of Conan Circa 10,000 B.C.: From a map prepared by Robert E. Howard.” Savage Sword of Conan #14 (September 1976). Marvel Comics." caption="“The Hyperborian Age of Conan Circa 10,000 B.C.: From a map prepared by Robert E. Howard.” Savage Sword of Conan #14 (September 1976). Marvel Comics."%}
 
 
 
