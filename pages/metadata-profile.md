@@ -5,8 +5,8 @@ permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-# Metadata Profile for _Comic Book Paratexts_
 <div>
+<h1>Metadata Profile for <cite>Comic Book Paratexts</cite></h1>
 <table class="table-striped">
 <colgroup>
 <col/>
@@ -204,14 +204,14 @@ credits: true
 </tr>
 </tbody>
 </table>
-</div>
 <div>
+<h2>Legend</h2>
 
----
-
-**Legend**
-- `M` Mandatory
-- `MA` Mandatory, if applicable
-- `R` Repeatable
-- `NR` Not repeatable
+<ul>
+<li><code>M</code> Mandatory</li>
+<li><code>MA</code> Mandatory, if applicable</li>
+<li><code>R</code> Repeatable</li>
+<li><code>NR</code> Not repeatable</li>
+</ul>
+</div>
 </div>
