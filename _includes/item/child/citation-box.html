@@ -8,7 +8,7 @@
     <div class="card-body">
         <dl>
             <dt>Preferred Citation:</dt>
-            <dd>"{{ child.title | default: page.title }}", {{ site.title }}, {{ site.organization-name }}</dd>
+            <dd>{{ site.author-citation }} ({{ site.publication-date }}). "{{ child.title | default: page.title -}}", {{ site.title }}, {{ site.organization-name }}</dd>
             <dt>Reference Link:</dt>
             <dd>{{ page.url | absolute_url }}#{{ child.objectid }}</dd>
         </dl>

@@ -28,7 +28,10 @@ description: "Comic Book Paratexts is a collection of example comic book paratex
 keywords: comic books;paratexts
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: John A. Walsh
+author-citation: Walsh, John A.
+publication-date: 2024
 
+  
 ##########
 # COLLECTION SETTINGS
 #
@@ -50,8 +53,8 @@ metadata: comic-book-paratexts-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Indiana University"
-organization-link:
+organization-name: "biblicon.org"
+organization-link: https://biblicon.org
 organization-logo-banner: assets/img/cbp-logo.png
 organization-logo-nav: assets/img/cbp-logo.png
 
