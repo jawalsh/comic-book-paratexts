@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-permalink: /about.html
+permalink: /people.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
@@ -12,6 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About Comic Book Paratexts;About the Editor" %}
 
+<!--
 ## About *Comic Book Paratexts*
 
 *Comic Book Paratexts* (*CBP*) is a growing digital collection and scholary resource for the exploration of comic book paratexts. *CPB* aims to provide illustrative examples of the many types of paratexts found in comic books. 
@@ -27,7 +28,7 @@ For a more extensive overview of paratexts and comic book paratexts, please see 
 
 
 {% include feature/image.html objectid="cbp_039" width="75" %} 
-
+-->
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
 ## About the Editor

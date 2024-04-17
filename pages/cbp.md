@@ -1,7 +1,7 @@
 ---
 title: Comic Book Paratexts
 layout: about
-permalink: /essay.html
+permalink: /cbp.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
