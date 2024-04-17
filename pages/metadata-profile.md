@@ -48,7 +48,13 @@ credits: true
 	<td>M</td>
 	<td>R</td>
 	<td>Combines ‘paratext type,’ ‘source,’ and scope fields. Title should appear in the form: [paratext type]: [source]. {Scope}</td>
-	<td><ul><li><code>Correspondence: &quot;Let’s Level with Daredevil.” Daredevil #36 (January 1968). Marvel comics.&lt;br/&gt;Publisher’s peritext: Justice Society of America #4 (July 2023). DC Comics.</code></li><li><code>Advertisement: “Honor House Products.” Dennis the Menace and His Friends Series #10 (June 1971). Fawcett Publications. Full page.</code></li></ul> </td>
+	<td>
+		<ul>
+			<li><code>Correspondence: &quot;Let’s Level with Daredevil.” Daredevil #36 (January 1968). Marvel comics.</code></li>
+			<li><code>Publisher’s peritext: Justice Society of America #4 (July 2023). DC Comics.</code></li>
+			<li><code>Advertisement: “Honor House Products.” Dennis the Menace and His Friends Series #10 (June 1971). Fawcett Publications. Full page.</code></li>
+		</ul>
+	</td>
 </tr>
 <tr>
 	<td>scope</td>
