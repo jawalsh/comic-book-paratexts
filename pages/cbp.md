@@ -166,8 +166,6 @@ Those interested in topics such as gender roles in comics will find much of inte
 
 Later versions of this advertisement would replace “Look, Fellows!” with “Look, Friends!” and “Are You a Boy?” with “Male or Female?”
 
-<!-- paused -->
-
 ### Publisher’s paratext: editorials and news
 
 ### Correspondence
