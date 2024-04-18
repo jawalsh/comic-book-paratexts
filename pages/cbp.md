@@ -6,6 +6,8 @@ permalink: /cbp.html
 credits: true
 ---
 
+{% include feature/jumbotron.html objectid="cbp_921" %} 
+
 # Comic Book Paratexts
 **John A. Walsh, Indiana University**
 

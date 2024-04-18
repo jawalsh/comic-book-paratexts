@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="cbp_034" %} 
 
-{% include feature/nav-menu.html sections="About Comic Book Paratexts;About the Editor" %}
-
 ## About *Comic Book Paratexts*
 
 *Comic Book Paratexts* (*CBP*) is a growing digital collection and scholary resource for the exploration of comic book paratexts. *CPB* aims to provide illustrative examples of the many types of paratexts found in comic books. 
