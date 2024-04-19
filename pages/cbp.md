@@ -202,6 +202,7 @@ In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks u
 {% include feature/pdf.html objectid="cbp_0118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
 
+{% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
 
 ### Works Cited
 <style type="text/css">
