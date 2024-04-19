@@ -219,7 +219,7 @@ Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. 
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
 </span>
 <span class="bibl">
-Hyder, Clyde Kenneth. Preface. In <cite>Swinburne Replies: Notes on Poems and Reivews, Under the Microscope, Dedicatory Epistle
+Hyder, Clyde Kenneth (1966). Preface. In <cite>Swinburne Replies: Notes on Poems and Reivews, Under the Microscope, Dedicatory Epistle</cite>. Syracuse University Press.</span>
 <span class="bibl">
 Shelley, Percy Bysshe (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
 </span>
