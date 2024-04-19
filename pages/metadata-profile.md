@@ -5,10 +5,10 @@ permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-{% include feature/jumbotron.html objectid="cbp_314" heading="About: Metadata Profile" text="The descriptive and bibliographic metadata for CBP." %} 
+{% include feature/jumbotron.html objectid="cbp_314" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for CBP." %} 
 
 <div>
-<h1>Metadata Profile for <cite>Comic Book Paratexts</cite></h1>
+<h1>Metadata Application Profile for <cite>Comic Book Paratexts</cite></h1>
 <div class="table-responsive">
 <table class="table table-sm table-striped">
 
