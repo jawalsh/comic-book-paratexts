@@ -192,9 +192,14 @@ Less narrative-focused documentary paratexts include “pin-up” pages of popul
 
 ### Epitexts
 
-Victorian poet Algernon Charles Swinburne, authored a number of important epitexts that illuminate his poetry and contextualize within English poetry and the larger canon of Western literature. In his edition of three of Swinburne’s epitexts, Clyde Kenneth Hyder writes that these “systematic replies to [Swinburne’s] critics” contained “imaginative interpretations of their author’s own poems or acute criticism of other poets, as well as stimulating observations on poetry in general” (p. vii). Swinburne’s “Notes on Poems and Reviews
+Victorian poet Algernon Charles Swinburne, authored a number of important epitexts that illuminate his poetry and contextualize within English poetry and the larger canon of Western literature. In his edition of three of Swinburne’s epitexts, Clyde Kenneth Hyder writes that these “systematic replies to [Swinburne’s] critics” contained “imaginative interpretations of their author’s own poems or acute criticism of other poets, as well as stimulating observations on poetry in general” (p. vii).
 
 {% include feature/pdf.html objectid="assets/pdf/swinburne-notes-on-poems-and-reviews" alt="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866)" caption="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866). PDF provided by the Internet Archive and University of California Libraries. http://ark.bnf.fr/ark:/13960/t8pc33t1m" %}
+
+In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks upon his recently published volume _Poems and Ballads_ (1866). “Notes” is mechanism, and epitext outside the physical and conceptual confines of the _Poems and Ballads_ volume, by which Swinburne can respond to his critics and speak to his readers, his fellow poets, and the larger literary world about his poetry. Similarly, comic book creators use epitextual mechanisms for such communications. These epitexts may be found in comics-related books, newspapers, magazines, and fanzines, on radio and television, and in audio and video recordings of panels and interviews at comic book conventions and similar events.
+
+
+{% include feature/pdf.html objectid="cbp_118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
 
 
