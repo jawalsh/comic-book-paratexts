@@ -192,6 +192,11 @@ Less narrative-focused documentary paratexts include “pin-up” pages of popul
 
 ### Epitexts
 
+Victorian poet Algernon Charles Swinburne, authored a number of important epitexts that illuminate his poetry and contextualize within English poetry and the larger canon of Western literature. In his edition of three of Swinburne’s epitexts, Clyde Kenneth Hyder writes that these “systematic replies to [Swinburne’s] critics” contained “imaginative interpretations of their author’s own poems or acute criticism of other poets, as well as stimulating observations on poetry in general” (p. vii). Swinburne’s “Notes on Poems and Reviews
+
+{% include feature/pdf.html objectid="assets/pdf/swinburne-notes-on-poems-and-reviews" alt="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866)" caption="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866). PDF provided by the Internet Archive and University of California Libraries. http://ark.bnf.fr/ark:/13960/t8pc33t1m"}
+
+
 
 ### Works Cited
 <style type="text/css">
@@ -208,6 +213,8 @@ Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. 
 <span class="bibl">
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
 </span>
+<span class="bibl">
+Hyder, Clyde Kenneth. Preface. In <cite>Swinburne Replies: Notes on Poems and Reivews, Under the Microscope, Dedicatory Epistle
 <span class="bibl">
 Shelley, Percy Bysshe (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
 </span>
