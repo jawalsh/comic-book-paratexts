@@ -12,5 +12,6 @@ source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 gcd link,GCD ID,,,,
+objectid,CBP ID,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
