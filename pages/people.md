@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="About: People" text="The people behind CBP." objectid="cbp_034" %} 
+{% include feature/jumbotron.html heading="About: People" text="The people behind CBP." objectid="cbp_0034" %} 
 
 ## About the Editor
 

@@ -5,7 +5,7 @@ permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-{% include feature/jumbotron.html objectid="cbp_314" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for CBP." %} 
+{% include feature/jumbotron.html objectid="cbp_0314" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for CBP." %} 
 
 <div>
 <h1>Metadata Application Profile for <cite>Comic Book Paratexts</cite></h1>
@@ -31,8 +31,8 @@ credits: true
 	<td></td>
 	<td>M</td>
 	<td>NR</td>
-	<td>objectid should be in the form cbp_NNN, where NNN is a sequential 3-digit zero-padded number</td>
-	<td><ul><li><code>cbp_001</code></li><li><code>cbp_027</code></li><li><code>cbp_239</code></li></ul></td>
+	<td>objectid should be in the form cbp_NNNN, where NNNN is a sequential 4-digit zero-padded number</td>
+	<td><ul><li><code>cbp_0001</code></li><li><code>cbp_0027</code></li><li><code>cbp_0239</code></li></ul></td>
 </tr>
 <tr>
 	<td>parentid</td>
@@ -41,7 +41,7 @@ credits: true
 	<td>MA</td>
 	<td>NR</td>
 	<td>Include for objects w/in a compound object. Should appear as the objectid of the compound object in which it is contained.</td>
-	<td><ul><li><code>cbp_001</code></li></ul></td>
+	<td><ul><li><code>cbp_0001</code></li></ul></td>
 </tr>
 <tr>
 	<td>title</td>
