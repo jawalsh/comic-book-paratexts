@@ -6,9 +6,9 @@ permalink: /cbp.html
 credits: true
 ---
 
-{% include feature/jumbotron.html objectid="cbp_921" %} 
+{% include feature/jumbotron.html heading="“Here’s What You Get”" text="An Introduction to Comic Book Paratexts" objectid="cbp_921" %} 
 
-# Comic Book Paratexts
+## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
 In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with the author(s), or relevant text from letters and private correspondence. 
@@ -39,9 +39,9 @@ The second category is _**epitexts**_, those paratexts that exist outside the ph
 
 Some comparative examples from traditional literary texts and comics illustrate these concepts.
 
-## Peritexts
+### Peritexts
 
-### Covers
+#### Covers
 
 {% include feature/image.html objectid="assets/img/swinburne-sbs-cover.jpg" width="75" alt="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti." caption="Cover to Algernon Charles Swinburne’s Songs Before Sunrise (1871), designed by Dante Gabriel Rossetti. Image from the Internet Archive: https://archive.org/details/beforesunrisongs00swinrich/."%}
 
@@ -64,7 +64,7 @@ The rather inconspicuous seal of the Comics Code Authority, present on the cover
 
 {% include feature/image.html objectid="cbp_908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision."%}
 
-### Title pages
+#### Title pages
 
 The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
 
@@ -78,7 +78,7 @@ Genette’s paratext categories include “intertitles,” or interior titles su
 
 {% include feature/image.html objectid="cbp_915" width="75" alt="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox." caption="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox."%}
 
-### Dedications
+#### Dedications
 Dedications are another type of paratext discussed by Genette and a common feature of traditional literary texts. Again we draw examples from Swinburne. In the first case we see the dedicattion to the painter Edward Burne Jones, a close friend of Swinburne. The dedication is from Swinburne’s most famous volume, _Poems and Ballads_ (1866). A second example is an implied dedication to one of Swinburne’s literary heroes, Victor Hugo, on the occasion of Hugo’s 78th birthday.
 
 {% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866)" caption="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866). Image from the Internet Archive: https://archive.org/details/b29012685/."%}
@@ -103,7 +103,7 @@ Derf Backderf’s dedication to his friend Doug Buckner appears in his hardbound
 
 {% include feature/image.html objectid="cbp_918" width="75" alt="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)." caption="A dedication to Doug Buckner from Derf Backderf’s Kent State: Four Dead in Ohio (2020)."%}
 
-### Epigraphs
+#### Epigraphs
 
 Epigraphs, which are short quotations, often with a bibliographic citation for the source of the quotation, at the beginning of a book, chapter, or poem. Like dedications to literary and artistic figures, epigraphs can suggest creative debt or influence. They also designate a specific intertextual relationship between the quoted text and the work in which the epigraph appears. There are at least three agents involved in an epigraph, as described by Genette:
 
@@ -147,7 +147,7 @@ Below is the full text of Shelley’s poem:
 > Of that colossal wreck, boundless and bare  
 > The lone and level sands stretch far away.  
 
-### Advertisements
+#### Advertisements
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
 The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
@@ -166,13 +166,13 @@ Those interested in topics such as gender roles in comics will find much of inte
 
 Later versions of this advertisement would replace “Look, Fellows!” with “Look, Friends!” and “Are You a Boy?” with “Male or Female?”
 
-### Publisher’s paratext: editorials and news
+#### Publisher’s paratext: editorials and news
 
-### Correspondence
+#### Correspondence
 
-### Notes
+#### Notes
 
-### Documentary partexts
+#### Documentary partexts
 
 Genette does devote a full chapter or section of his seminal book to “documentary” paratexts, but in his conclusion he writes, “[T]his inventory of paratextual elements remains incomplete … For instance, certain elements of the documentary paratext that are characteristic of didactic works are sometimes appended, with or without playful intent, to works of fiction” (p. 404). He goes on to list a number of examples: 
 
@@ -190,25 +190,27 @@ Less narrative-focused documentary paratexts include “pin-up” pages of popul
 
 
 
-## Epitexts
+### Epitexts
 
 
-# Works Cited
-
+### Works Cited
 <style type="text/css">
 .bibl {
-	text-indent: -2em;
-	padding-left: 2em;
+	display: block;
+	text-indent: -2.5em;
+	padding-left: 2.5em;
 }
 </style>
-<div class="bibl">
+<p>
+<span class="bibl">
 Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. Lewin, Trans.). Cambridge UP. 
-</div>
-<div class="bibl">
+</span>
+<span class="bibl">
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
-</div>
-<div class="bibl">
+</span>
+<span class="bibl">
 Shelley, Percy Bysshe (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
-</div>
+</span>
+</p>
 
 
