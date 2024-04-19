@@ -194,7 +194,7 @@ Less narrative-focused documentary paratexts include “pin-up” pages of popul
 
 Victorian poet Algernon Charles Swinburne, authored a number of important epitexts that illuminate his poetry and contextualize within English poetry and the larger canon of Western literature. In his edition of three of Swinburne’s epitexts, Clyde Kenneth Hyder writes that these “systematic replies to [Swinburne’s] critics” contained “imaginative interpretations of their author’s own poems or acute criticism of other poets, as well as stimulating observations on poetry in general” (p. vii). Swinburne’s “Notes on Poems and Reviews
 
-{% include feature/pdf.html objectid="assets/pdf/swinburne-notes-on-poems-and-reviews" alt="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866)" caption="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866). PDF provided by the Internet Archive and University of California Libraries. http://ark.bnf.fr/ark:/13960/t8pc33t1m"}
+{% include feature/pdf.html objectid="assets/pdf/swinburne-notes-on-poems-and-reviews" alt="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866)" caption="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866). PDF provided by the Internet Archive and University of California Libraries. http://ark.bnf.fr/ark:/13960/t8pc33t1m" %}
 
 
 
