@@ -147,6 +147,8 @@ Below is the full text of Shelley’s poem:
 > Of that colossal wreck, boundless and bare  
 > The lone and level sands stretch far away.  
 
+#### Publisher’s paratext: advertisements, editorials, and news
+
 #### Advertisements
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
@@ -166,11 +168,13 @@ Those interested in topics such as gender roles in comics will find much of inte
 
 Later versions of this advertisement would replace “Look, Fellows!” with “Look, Friends!” and “Are You a Boy?” with “Male or Female?”
 
-#### Publisher’s paratext: editorials and news
-
 #### Correspondence
 
 #### Notes
+
+Genette defines a note as follows: “A note is a statement of variable length (one word is enough) connected to a more or less definite segment of text and either placed opposite or keyed to this segment” (p. 319). Genette also distinguishes between “between notes connected with texts that are themselves discursive (history, essays, and so forth) and notes - as a matter of fact, far less common - that adorn or mar, as you like, works of narrative or dramatic fiction or lyric poetry” (p. 325). We find both kinds of notes in comics. 
+
+
 
 #### Documentary partexts
 
