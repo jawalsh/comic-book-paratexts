@@ -31,7 +31,7 @@ Genette writes:
 
 > paratext = peritext + epitext (p. 5)
 
-Genette divides the paratext into two general catagories: _**peritexts**_, that exist within the same volume (or the same floppy comic book): 
+Genette divides the paratext into two general catagories. The first category is _**peritexts**_, paratexts that exist within the same volume (or the same floppy comic book): 
 
 > Within the same volume are elements such as the title or the preface and sometimes elements inserted into the interstices of the text, such as chapter titles or certain notes (Genette, pp. 4-5).
 
@@ -67,6 +67,8 @@ The rather inconspicuous seal of the Comics Code Authority, present on the cover
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision."%}
 
 #### Title pages
+
+<!-- swinburne title page -->
 
 The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
 
@@ -150,15 +152,20 @@ Below is the full text of Shelley’s poem:
 > The lone and level sands stretch far away.  
 
 #### Advertisements
+
+<!-- swinburne advertisements -->
+
+{% include feature/image.html objectid="assets/img/swinburne-erechtheus-advert.jpg" alt="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." caption="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." %}
+
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
 The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
 
-{% include feature/image.html objectid="cbp_0919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)."%}
+{% include feature/image.html objectid="cbp_0919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." %}
 
 Many comic book advertisements co-opt formal elements from comics. For example, the advertisement below for “Big Jim’s P.A.C.K.” action figures This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons.
 
-{% include feature/image.html objectid="cbp_0920" width="75" alt="This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons." caption="This advertisement for Big Jim’s P.A.C.K. action figures, from Captain America #193 (January 1976) incorporates comics-styled illustration, lettering and typography, captions, and word balloons."%}
+{% include feature/image.html objectid="cbp_0920" width="75" alt="This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons." caption="This advertisement for Big Jim’s P.A.C.K. action figures, from Captain America #193 (January 1976) incorporates comics-styled illustration, lettering and typography, captions, and word balloons." %}
 
 A 1968 advertisement for International Correspondence Schools (ICS) completely abandons traditional ad copy, format, and structure, instead employing the comics format to tell the fictional story of a high school dropout who becomes a success by using the advertised product. 
 
