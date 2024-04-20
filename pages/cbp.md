@@ -11,6 +11,8 @@ credits: true
 ## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
+When a reader pick’s up a traditional floppy comic, a trade paperback printing multiple issues of a comic that originally appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader confronted with a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find in and around those comics — fan mail, advertisements, publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when when one consume’s the whole of a comic book text. 
+
 In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with the author(s), or relevant text from letters and private correspondence. 
 
 Paratextual elements can influence the reception and interpretation of a text. 
@@ -29,7 +31,7 @@ Genette writes:
 
 > paratext = peritext + epitext (p. 5)
 
-Genette divides the paratext into two general catagories: _**peritexts**_, that exist within the same volume (or the same floppy comic book): 
+Genette divides the paratext into two general catagories. The first category is _**peritexts**_, paratexts that exist within the same volume (or the same floppy comic book): 
 
 > Within the same volume are elements such as the title or the preface and sometimes elements inserted into the interstices of the text, such as chapter titles or certain notes (Genette, pp. 4-5).
 
@@ -65,6 +67,8 @@ The rather inconspicuous seal of the Comics Code Authority, present on the cover
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision."%}
 
 #### Title pages
+
+<!-- swinburne title page -->
 
 The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
 
@@ -150,15 +154,20 @@ Below is the full text of Shelley’s poem:
 #### Publisher’s paratext: advertisements, editorials, and news
 
 #### Advertisements
+
+<!-- swinburne advertisements -->
+
+{% include feature/image.html objectid="assets/img/swinburne-erechtheus-advert.jpg" alt="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." caption="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." %}
+
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
 The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
 
-{% include feature/image.html objectid="cbp_0919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)."%}
+{% include feature/image.html objectid="cbp_0919" width="75" alt="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." caption="Double-page spread of “Shop by mail” advertisements from Amazing Spider-Man #65 (October 1968)." %}
 
 Many comic book advertisements co-opt formal elements from comics. For example, the advertisement below for “Big Jim’s P.A.C.K.” action figures This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons.
 
-{% include feature/image.html objectid="cbp_0920" width="75" alt="This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons." caption="This advertisement for Big Jim’s P.A.C.K. action figures, from Captain America #193 (January 1976) incorporates comics-styled illustration, lettering and typography, captions, and word balloons."%}
+{% include feature/image.html objectid="cbp_0920" width="75" alt="This advertisement for Big Jim’s P.A.C.K. action figures incorporates comics-styled illustration, lettering and typography, captions, and word balloons." caption="This advertisement for Big Jim’s P.A.C.K. action figures, from Captain America #193 (January 1976) incorporates comics-styled illustration, lettering and typography, captions, and word balloons." %}
 
 A 1968 advertisement for International Correspondence Schools (ICS) completely abandons traditional ad copy, format, and structure, instead employing the comics format to tell the fictional story of a high school dropout who becomes a success by using the advertised product. 
 
@@ -205,7 +214,11 @@ In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks u
 
 {% include feature/pdf.html objectid="cbp_0118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
+{% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
 
+However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educaton the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
+
+{% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
 ### Works Cited
 <style type="text/css">
