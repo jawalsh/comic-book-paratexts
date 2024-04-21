@@ -11,19 +11,19 @@ credits: true
 ## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
-When a reader pick’s up a traditional floppy comic, a trade paperback printing multiple issues of a comic that originally appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader confronted with a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find in and around those comics — fan mail, advertisements, publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when when one consume’s the whole of a comic book text. 
+When a reader picks up a traditional floppy comic, a trade paperback printing multiple issues of a comic that originally appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book text. 
 
 In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with the author(s), or relevant text from letters and private correspondence. 
 
 Paratextual elements can influence the reception and interpretation of a text. 
 
-The table of contents to Genette's book is a sort of taxonomy of paratexts, with sections devoted to the many different categories of paratexts, such as: cover, title page, name of author, titles, dedications, epigraphs, and so on. 
+The table of contents of Genette's book is a sort of taxonomy of paratexts, with sections devoted to the many different categories of paratexts, such as cover, title page, name of author, titles, dedications, epigraphs, and so on. 
 
 {% include feature/pdf.html objectid="cbp_0051" width="50" caption="Table of Contents from Gérard Genette’s Paratexts: Thresholds of Interpretation." %}
 
 <!-- table of contents -->
 
-In most cases, he discusses the *function* of the particular type of paratext. For instance, Genette write, “the basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
+In most cases, he discusses the *function* of the particular type of paratext. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
 
 In the comic book, the “text” is the sequential art, the comics narrative composed of panels, artwork, word balloons, captions, and more. Comic book paratexts include components already mentioned (titles, notes, etc.) along with other elements like advertisements, letters of comment (i.e., fan mail), and publisher news and editorial pages (e.g., DC’s “Direct Currents” or Marvel’s “Bullpen Bulletins).
 
@@ -31,7 +31,7 @@ Genette writes:
 
 > paratext = peritext + epitext (p. 5)
 
-Genette divides the paratext into two general catagories. The first category is _**peritexts**_, paratexts that exist within the same volume (or the same floppy comic book): 
+Genette divides the paratext into two general categories. The first category is _**peritexts**_, paratexts that exist within the same volume (or the same floppy comic book): 
 
 > Within the same volume are elements such as the title or the preface and sometimes elements inserted into the interstices of the text, such as chapter titles or certain notes (Genette, pp. 4-5).
 
