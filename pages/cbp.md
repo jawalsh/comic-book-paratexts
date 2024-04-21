@@ -183,7 +183,11 @@ Later versions of this advertisement would replace “Look, Fellows!” with “
 
 Genette defines a note as follows: “A note is a statement of variable length (one word is enough) connected to a more or less definite segment of text and either placed opposite or keyed to this segment” (p. 319). Genette also distinguishes between “between notes connected with texts that are themselves discursive (history, essays, and so forth) and notes - as a matter of fact, far less common - that adorn or mar, as you like, works of narrative or dramatic fiction or lyric poetry” (p. 325). We find both kinds of notes in comics. 
 
+{% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
 
+However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educaton the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
+
+{% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
 #### Documentary partexts
 
@@ -209,16 +213,11 @@ Victorian poet Algernon Charles Swinburne, authored a number of important epitex
 
 {% include feature/pdf.html objectid="assets/pdf/swinburne-notes-on-poems-and-reviews.pdf" alt="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866)" caption="Algernon Charles Swinburne’s Notes on Poems and Reviews (1866). PDF provided by the Internet Archive and University of California Libraries. http://ark.bnf.fr/ark:/13960/t8pc33t1m" %}
 
-In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks upon his recently published volume _Poems and Ballads_ (1866). “Notes” is mechanism, and epitext outside the physical and conceptual confines of the _Poems and Ballads_ volume, by which Swinburne can respond to his critics and speak to his readers, his fellow poets, and the larger literary world about his poetry. Similarly, comic book creators use epitextual mechanisms for such communications. These epitexts may be found in comics-related books, newspapers, magazines, and fanzines, on radio and television, and in audio and video recordings of panels and interviews at comic book conventions and similar events.
+In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks upon his recently published volume _Poems and Ballads_ (1866). “Notes” is a mechanism, and epitext outside the physical and conceptual confines of the _Poems and Ballads_ volume, by which Swinburne can respond to his critics and speak to his readers, his fellow poets, and the larger literary world about his poetry. Similarly, comic book creators use epitextual mechanisms for such communications. These epitexts may be found in comics-related books, newspapers, magazines, and fanzines, on radio and television, and in audio and video recordings of panels and interviews at comic book conventions and similar events.
 
 
 {% include feature/pdf.html objectid="cbp_0118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
-{% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
-
-However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educaton the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
-
-{% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
 ### Works Cited
 <style type="text/css">
