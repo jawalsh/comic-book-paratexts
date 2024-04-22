@@ -159,6 +159,12 @@ Below is the full text of Shelley’s poem:
 
 {% include feature/image.html objectid="assets/img/swinburne-erechtheus-advert.jpg" alt="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." caption="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." %}
 
+The paratexts of comics will also include lists of available works by the comics publishers. Two examples below, a “Mighty Marvel Checklist” from Marvel’s “Bullpen Bulletins” of January 1968 and an advertisement for subscriptions to Marvel comics and comics magazines, include such lists.
+
+{% include feature/image.html objectid="cbp_0043" width="75" alt="Publisher’s peritext: “Marvel Bullpen Bulletins.” Daredevil #36 (January 1968). Marvel Comics." caption="“Mighty Marvel Checklist” in Marvel’s “Bullpen Bulletins” from Daredevil #36 (January 1968)." %}
+
+{% include feature/image.html objectid="cbp_0514" width="75" alt="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." caption="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." %}
+
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
 The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
