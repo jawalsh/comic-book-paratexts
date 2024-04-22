@@ -11,7 +11,7 @@ credits: true
 ## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
-When a reader picks up a traditional floppy comic, a trade paperback collecting multiple issues of a comic that initially appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find other content in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book text. 
+When a reader picks up a traditional floppy comic, a trade paperback collecting multiple issues of a comic that initially appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find other content in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book document. 
 
 In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with authors and creators, or relevant text from letters and private correspondence. 
 
@@ -25,21 +25,17 @@ The table of contents of Genette's book is a sort of taxonomy of paratexts, with
 
 In exploring the different types of paratexts, Genette also discusses the *function* of each particlar type. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
 
-Comics include many of the same types of paratexts that Genette explores in traditional literary texts, but comics also include distinct types — such as peritextual correspondence, or fan mail — that are not present in the same way in the literary text used as source material for Genette’s study.
+Comics include many of the same types of paratexts that Genette explores in traditional literary texts, but comics also include distinct types — such as peritextual correspondence, or fan mail — that are not present in the same way in the literary texts that Genette turns to for his examples.
 
-Genette writes: 
-
-> paratext = peritext + epitext (p. 5)
-
-Genette divides the paratext into two general categories. The first category is _**peritexts**_, paratexts that exist within the same volume (or the same floppy comic book): 
+Genette divides the paratext into two general categories and writes, “paratext = peritext + epitext” (p. 5). The first category, _**peritexts**_, refers to paratexts that exist within the same physical volume (or the same floppy comic book): 
 
 > Within the same volume are elements such as the title or the preface and sometimes elements inserted into the interstices of the text, such as chapter titles or certain notes (Genette, pp. 4-5).
 
-The second category is _**epitexts**_, those paratexts that exist outside the physical volume (or floppy comic): 
+The second category, _**epitexts**_, identities those paratexts that exist outside the physical volume (or floppy comic): 
 
 > [A]ll those messages that, at least originally, are located outside the book, generally with the backing of the media (interviews, conversations), or under cover of private communication (letters, diaries, and others) (Genette, p. 5)
 
-Some comparative examples from traditional literary texts and comics illustrate these concepts.
+Some comparative examples from traditional literary texts and comics will help illustrate these concepts. <!-- paused. -->
 
 ### Peritexts
 
