@@ -254,7 +254,7 @@ Hyder, C. K. (1966). Preface. In <cite>Swinburne Replies: Notes on Poems and Rev
 <span class="bibl">
 Shelley, P. B. (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
 </span>
-<span class="bibl">Walsh, J. A. (2022). “It Was as Much Ours …”: Reader Contributions to Teen Humor Fashion Comics. _Inks: The Journal of the Comics Studies Society_, 6(2), 142–171. <https://doi.org/10.1353/ink.2022.0011></span>
+<span class="bibl">Walsh, J. A. (2022). “It Was as Much Ours …”: Reader Contributions to Teen Humor Fashion Comics. <cite>Inks: The Journal of the Comics Studies Society<cite>, 6(2), 142–171. <a href="https://doi.org/10.1353/ink.2022.0011">https://doi.org/10.1353/ink.2022.0011</a></span>
 </p>
 
 
