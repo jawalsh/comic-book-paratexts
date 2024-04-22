@@ -198,7 +198,9 @@ However, most comic book’s are not “discursive” documents. They are works 
 
 A distinctive type of note found mostly in comics from the genre of “teen humor fashion comics” (Walsh 2021). In these teen humor fashion comics, like the Katy Keene comics from Archie comics or the Millie the Model comics from Marvel, the comics creators solicited fashion designs and other contributions from readers. Readers whose designs and ideas were used in the comics were credited in notes. 
 
-{% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
+{% include feature/image.html objectid="cbp_0512" width="75" alt="Note crediting readers who submitted concepts and designs to Katy Keene Pinup Parade #8 (1959). Archie Comics." caption="Note crediting readers who submitted concepts and designs to Katy Keene Pinup Parade #8 (1959). Archie Comics." %}
+
+{% include feature/image.html objectid="cbp_0513" width="75" alt="Note crediting readers who submitted concepts and designs to Katy Keene Pinup Parade #8 (1959). Archie Comics." caption="Note crediting readers who submitted concepts and designs to Katy Keene Pinup Parade #8 (1959). Archie Comics." %}
 
 #### Documentary partexts
 
