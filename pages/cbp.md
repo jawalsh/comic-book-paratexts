@@ -165,7 +165,7 @@ The paratexts of comics will also include lists of available works by the comics
 
 {% include feature/image.html objectid="cbp_0514" width="75" alt="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." caption="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." %}
 
-The second example above, the advertisement for subscriptions _Fantastic Four_ #162 (September 1975), illustrates the value of paratexts for the study of comics and comics publishing history. The advertisement includes an option to subscribe to the title _Scarecrow_. While the character appeared in three comics around this time — _Dead of Night_ #11 (August 1975), _Marvel Spotlight_ #26 (February 1976), and _Marvel Two-in-One_ #18 (August 1976) — a serial comic titled _Scarecrow_ was never published by Marvel. This advertisement suggests such a titled was planned but then abandoned.
+The second example above, the advertisement for subscriptions _Fantastic Four_ #162 (September 1975), illustrates the value of paratexts for the study of comics and comics publishing history. The advertisement includes an option to subscribe to the title _Scarecrow_. While the character appeared in single issues of three different titles around this time — _Dead of Night_ #11 (August 1975), _Marvel Spotlight_ #26 (February 1976), and _Marvel Two-in-One_ #18 (August 1976) — a serial comic titled _Scarecrow_ was never published by Marvel. This advertisement suggests such a titled was planned but then abandoned.
 
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
@@ -196,6 +196,8 @@ Genette defines a note as follows: “A note is a statement of variable length (
 However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educaton the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
 
 {% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
+
+A distinctive type of note found mostly in comics from the genre of “teen humor fashion comics” (Walsh 2021)
 
 #### Documentary partexts
 
@@ -243,10 +245,11 @@ Genette, G. (1997). <cite>Paratexts: Thresholds of Interpretation</cite> (J. E. 
 Haynes, K. (2000). <cite>Poems and Ballads &amp; Atalanta in Calydon</cite> (A. C. Swinburne). Penguin UK.
 </span>
 <span class="bibl">
-Hyder, Clyde Kenneth (1966). Preface. In <cite>Swinburne Replies: Notes on Poems and Reivews, Under the Microscope, Dedicatory Epistle</cite>. Syracuse University Press.</span>
+Hyder, C. K. (1966). Preface. In <cite>Swinburne Replies: Notes on Poems and Reviews, Under the Microscope, Dedicatory Epistle</cite>. Syracuse University Press.</span>
 <span class="bibl">
-Shelley, Percy Bysshe (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
+Shelley, P. B. (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
 </span>
+<span class="bibl">Walsh, J. A. (2022). “It Was as Much Ours …”: Reader Contributions to Teen Humor Fashion Comics. _Inks: The Journal of the Comics Studies Society_, 6(2), 142–171. <https://doi.org/10.1353/ink.2022.0011></span>
 </p>
 
 
