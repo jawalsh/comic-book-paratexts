@@ -196,7 +196,9 @@ However, most comic book’s are not “discursive” documents. They are works 
 
 {% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
-A distinctive type of note found mostly in comics from the genre of “teen humor fashion comics” (Walsh 2021)
+A distinctive type of note found mostly in comics from the genre of “teen humor fashion comics” (Walsh 2021). In these teen humor fashion comics, like the Katy Keene comics from Archie comics or the Millie the Model comics from Marvel, the comics creators solicited fashion designs and other contributions from readers. Readers whose designs and ideas were used in the comics were credited in notes. 
+
+{% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
 #### Documentary partexts
 
@@ -227,6 +229,8 @@ In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks u
 
 {% include feature/pdf.html objectid="cbp_0118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
+## Conclusion
+21st-century comics fans, readers, and scholars have access to tens of thousands of print and digital collections and reprints of comics from throughout comics history. However, in most cases those reprints are woefully incomplete and inadequate for serious scholarship. They all too frequently lack the crucial original paratexts — the fan mail, advertisements, publisher news, and more – that are an integral part of the comic book document and are in conversation with the core comic book text, its audience, its traditions, and its history. 
 
 ### Works Cited
 <style type="text/css">
