@@ -165,6 +165,8 @@ The paratexts of comics will also include lists of available works by the comics
 
 {% include feature/image.html objectid="cbp_0514" width="75" alt="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." caption="Advertisement for subscriptions to Marvel comics and comics magazines from Fantastic Four #162 (September 1975)." %}
 
+The second example above, the advertisement for subscriptions _Fantastic Four_ #162 (September 1975), illustrates the value of paratexts for the study of comics and comics publishing history. The advertisement includes an option to subscribe to the title _Scarecrow_. While the character appeared in three comics around this time — _Dead of Night_ #11 (August 1975), _Marvel Spotlight_ #26 (February 1976), and _Marvel Two-in-One_ #18 (August 1976) — a serial comic titled _Scarecrow_ was never published by Marvel. This advertisement suggests such a titled was planned but then abandoned.
+
 For many mainstream American comic books, advertisements are by far the most common type of paratext. A single page of a silver or bronze-age comic could contain a dozen or more small advertisements.
 
 The single double-page spread below includes 37 separate advertisements. The size and density of the ads is reminiscent of classified advertisements found in newspapers.
