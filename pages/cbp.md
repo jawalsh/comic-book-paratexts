@@ -35,7 +35,7 @@ The second category, _**epitexts**_, identities those paratexts that exist outsi
 
 > [A]ll those messages that, at least originally, are located outside the book, generally with the backing of the media (interviews, conversations), or under cover of private communication (letters, diaries, and others) (Genette, p. 5)
 
-Some comparative examples from traditional literary texts and comics will help illustrate these concepts. <!-- paused. -->
+Some comparative examples from traditional literary texts and comics will help illustrate these concepts. 
 
 ### Peritexts
 
@@ -45,34 +45,37 @@ Some comparative examples from traditional literary texts and comics will help i
 
 <!-- https://archive.org/details/beforesunrisongs00swinrich/ -->
 
-In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy's struggles for independence in the 19th century. The cover was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a member of the Pre-Raphaelite Brotherhood, an influential of young rebellious artists. The cover design by Rossetti acknowledges and emphasizes Swinburne’s personal relationship with Rossetti and his affiliation with the Pre-Raphaelite artists and poets.
+In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy's struggles for independence in the 19th century. The cover was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a member of the Pre-Raphaelite Brotherhood, an influential group of young, rebellious artists. The cover design by Rossetti acknowledges and emphasizes Swinburne’s personal relationship with Rossetti and his affiliation with the Pre-Raphaelite artists and poets.
 
-A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover includes the series title, “Captain America”; a story title, “‘Madbomb’: It Can Destroy the World!”; biblographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); price (25¢); content advisory, “Approved by the Comics Code Authority”; artists’ names (“J. Kirby + J. Romita”), and publisher’s announcement on the return of longtime artist Jack Kirby, “King Kirby is back -- and greater than ever!”.
-<!-- to do: Cover of Cap. America #193 -->
+A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover below includes the series title, “Captain America”; a story title, “‘Madbomb’: It Can Destroy the World!”; biblographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); the price (25¢); a content advisory, “Approved by the Comics Code Authority”; artists’ names (“J. Kirby + J. Romita”), and a publisher’s announcement on the return of longtime Marvel artist Jack Kirby, “King Kirby is back -- and greater than ever!”. From 1971-1975, Kirby had left Marvel to work for rival DC Comics.
 
 {% include feature/image.html objectid="cbp_0901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-This cover includes information on creators not found elsewhere in the document. For instance, the formal credits on the interior splash page (See fig. x) omit John Romita, who inked Jack Kirby’s pencils for the document’s cover (see fig. ) .
+This cover also includes information on creators not found elsewhere in the document. For instance, the formal credits on the [interior splash page](items/cbp_0902.html) omit John Romita, who inked Jack Kirby’s pencils for the comics’s cover. The [cover](items/cbp_0905.html) itself, however, includes names “J. Kirby + J. Romita.”
 
 {% include feature/image.html objectid="cbp_0902" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Interior splash page credits to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
 {% include feature/image.html objectid="cbp_0905" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Artists’ signatures on the cover Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-The rather inconspicuous seal of the Comics Code Authority, present on the cover of most American comics from 19XX to XXX, signals the fraught and complicated history of the 1950s campaign against comics, spearheaded by psychologist Frederic Wertham. Wertham argued that comics were . Senate hearings. Librarians. Comics Code Authority. 
+The rather inconspicuous seal of the Comics Code Authority, found on the covers of American comics from 1955 into the early 21st century, signals the fraught and complicated history of the 1950s campaign against comics, championed by psychologist Frederic Wertham. 
 
-{% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision."%}
+{% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision." %}
 
 #### Title pages
 
-<!-- swinburne title page -->
+The interior title page for a 19th-century book of poetry contains a great deal of information. The example below, from Swinburne’s _Erechtheus_ (1876), includes the title of the work, the name of the author, two epigraphs — quotations from Pindar and Aeschylus, the place of Publication, the publisher, and the date of publication.
 
-The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
+{% include feature/image.html objectid="assets/img/swinburne-erechtheus-title.jpg" width="75" alt="The title pages from Algernon Charles Swinburne’s Erechtheus (1876)." caption="The title pages from Algernon Charles Swinburne’s Erechtheus (1876). "%}
+
+<!-- paused. -->
+
+The interior splash page in a comic is in many ways analagous to the title page of a tradtional literary work. The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
 
 The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
 
 Genette’s paratext categories include “intertitles,” or interior titles such as chapter and section titles, and we find many examples of these in comics.
 
-{% include feature/image.html objectid="cbp_0023" width="75" alt="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)" caption="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)"%}
+{% include feature/image.html objectid="cbp_0023" width="75" alt="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)" caption="An “intertitle,” or interior title, introducing a Patsy Walker story in Miss America #64 (June 1954)" %}
 
 {% include feature/image.html objectid="cbp_0090" width="75" alt="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics." caption="An “intertitle,” or interior title, introducing a chapter in Kamandi, The Last Boy On Earth #11 (November 1973). DC Comics."%}
 
