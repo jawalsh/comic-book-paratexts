@@ -11,9 +11,9 @@ credits: true
 ## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
-When a reader picks up a traditional floppy comic, a trade paperback printing multiple issues of a comic that originally appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book text. 
+When a reader picks up a traditional floppy comic, a trade paperback collecting multiple issues of a comic that initially appeared in floppy form, or a long-form comic originally published as a bound hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, she will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But she will also find other content in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book text. 
 
-In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with the author(s), or relevant text from letters and private correspondence. 
+In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with authors and creators, or relevant text from letters and private correspondence. 
 
 Paratextual elements can influence the reception and interpretation of a text. 
 
@@ -23,9 +23,9 @@ The table of contents of Genette's book is a sort of taxonomy of paratexts, with
 
 <!-- table of contents -->
 
-In most cases, he discusses the *function* of the particular type of paratext. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
+In exploring the different types of paratexts, Genette also discusses the *function* of each particlar type. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
 
-In the comic book, the “text” is the sequential art, the comics narrative composed of panels, artwork, word balloons, captions, and more. Comic book paratexts include components already mentioned (titles, notes, etc.) along with other elements like advertisements, letters of comment (i.e., fan mail), and publisher news and editorial pages (e.g., DC’s “Direct Currents” or Marvel’s “Bullpen Bulletins).
+Comics include many of the same types of paratexts that Genette explores in traditional literary texts, but comics also include distinct types — such as peritextual correspondence, or fan mail — that are not present in the same way in the literary text used as source material for Genette’s study.
 
 Genette writes: 
 
