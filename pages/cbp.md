@@ -67,11 +67,18 @@ The interior title page for a 19th-century book of poetry contains a great deal 
 
 {% include feature/image.html objectid="assets/img/swinburne-erechtheus-title.jpg" width="75" alt="The title pages from Algernon Charles Swinburne’s Erechtheus (1876)." caption="The title pages from Algernon Charles Swinburne’s Erechtheus (1876). "%}
 
-<!-- paused. -->
+The interior splash page in a comic is in many ways analagous to the title page of a tradtional literary work. The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. 
 
-The interior splash page in a comic is in many ways analagous to the title page of a tradtional literary work. The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. However, commonly, the interior story title is a variant of the title found on the cover. In this case, the cover reads, “‘Madbomb’ It Can Destroy the World!” while this interior title reads “The Madbomb Screamer in the Brain!” The result is two paratextual titles competing with, commenting on, and amplifying one another.
+{% include feature/image.html objectid="cbp_0910" width="75" alt="A splash page, or title page, from Captain America #193 (January 1976)." caption="A splash page, or title page, from Captain America #193 (January 1976)." %}
+
+However, commonly, the interior story title is a variant of the title found on the cover. For example, the interior title below reads “The Madbomb Screamer in the Brain!” while the cover (above) for the same comic reads, “‘Madbomb’ It Can Destroy the World!” he result is two paratextual titles competing with, commenting on, and amplifying one another.
+
+{% include feature/image.html objectid="cbp_0911" width="75" alt="A title from Captain America #193 (January 1976)." caption="A title from Captain America #193 (January 1976)." %}
 
 The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
+
+cbp_0116
+{% include feature/image.html objectid="cbp_0116" width="75" alt="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." caption="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." %}
 
 Genette’s paratext categories include “intertitles,” or interior titles such as chapter and section titles, and we find many examples of these in comics.
 
