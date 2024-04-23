@@ -77,7 +77,6 @@ However, commonly, the interior story title is a variant of the title found on t
 
 The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
 
-cbp_0116
 {% include feature/image.html objectid="cbp_0116" width="75" alt="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." caption="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." %}
 
 Genette’s paratext categories include “intertitles,” or interior titles such as chapter and section titles, and we find many examples of these in comics.
