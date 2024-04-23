@@ -238,7 +238,7 @@ In “Notes on Poems and Reviews” (1866), Swinburne is responding to attacks u
 {% include feature/pdf.html objectid="cbp_0118" alt="Public authorial epitext: “Steve Englehart Speaks: Part 1 ‘Journey to the Center of a Vision.’” Foom #12 (December 1975)" caption="A public authorial epitext—an interview with comics creator Steve Englehart from Foom #12 (December 1975)." %}
 
 ## Conclusion
-21st-century comics fans, readers, and scholars have access to tens of thousands of print and digital collections and reprints of comics from throughout comics history. However, in most cases those reprints are woefully incomplete and inadequate for serious scholarship. They all too frequently lack the crucial original paratexts — the fan mail, advertisements, publisher news, and more – that are an integral part of the comic book document and are in conversation with the core comic book text, its audience, its traditions, and its history. 
+21st-century comics fans, readers, and scholars have access to tens of thousands of print and digital collections and reprints of comics from throughout comics history. However, in most cases those reprints are woefully incomplete and inadequate for serious scholarship. They all too frequently lack the crucial original paratexts — the fan mail, advertisements, publisher news, and more – that are an integral part of the comic book document and are in conversation with the core comic book text, its audience, its traditions, and its history. In his investigation of documentary comics, Schmid (2021) writes, “While the prefix “para-” suggests a hierarchy between such “marginal” texts and the narrative discourse, the paratext is a constitutive element of the documentary graphic narrative book and necessitates investigative attention. Instead of being a frame that contains the story within, the various paratexts are active components of documentary comics’ work of framing” (p. 65). Of course, this claim for the constitutive nature of the comic book paratext applies to all comics, not just those we might classify as documentary. In most contexts, our understanding of comics is enriched by giving careful investigative attention to the comic book paratext.
 
 ### Works Cited
 <style type="text/css">
@@ -260,6 +260,7 @@ Hyder, C. K. (1966). Preface. In <cite>Swinburne Replies: Notes on Poems and Rev
 <span class="bibl">
 Shelley, P. B. (1819). Ozymandias. In <cite>Rosalind and Helen, a modern eclogue; with other poems</cite>. C. and J. Ollier. <a href="https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33">https://hdl.handle.net/2027/dul1.ark:/13960/t1bk2mq33</a>
 </span>
+<span class="bibl">Schmid, J. C. P. (2021). <cite>Frames and Framing in Documentary Comics</cite>. Palgrave Macmillan.</span>
 <span class="bibl">Walsh, J. A. (2022). “It Was as Much Ours …”: Reader Contributions to Teen Humor Fashion Comics. <cite>Inks: The Journal of the Comics Studies Society</cite>, 6(2), 142–171. <a href="https://doi.org/10.1353/ink.2022.0011">https://doi.org/10.1353/ink.2022.0011</a></span>
 </p>
 
