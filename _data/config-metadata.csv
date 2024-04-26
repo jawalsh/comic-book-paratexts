@@ -9,6 +9,7 @@ location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
+publisher,Publisher,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 gcd link,GCD ID,,,,
