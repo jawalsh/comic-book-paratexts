@@ -13,3 +13,12 @@ version: 1+
 date-released: '2024'
 abstract: >-
   Comic Book Paratexts is a collection of example comic book paratexts, including advertisements, correspondence, dedications, epigraphs, and more.
+preferred-citation:
+  authors:
+    - family-names: Walsh
+      given-names: John A.
+      orcid: https://orcid.org/0000-0002-1824-210X
+  title: "Title of the work."
+  type: generic
+  year: 2024
+  url: 'https://biblicon.org/cbp/'
