@@ -61,7 +61,7 @@ The rather inconspicuous seal of the Comics Code Authority, found on the covers 
 
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision." %}
 
-Thus, a “simple” comic book cover provides important bibliographic and commericial details and gestures towards the much more complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
+Thus, a “simple” comic book cover both provides important bibliographic and commericial details and gestures towards the complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
 
 #### Title pages
 
