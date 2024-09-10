@@ -59,9 +59,9 @@ This cover also includes information on creators not found elsewhere in the docu
 
 The rather inconspicuous seal of the Comics Code Authority, found on the covers of American comics from 1955 into the early 21st century, signals the fraught and complicated history of the 1950s campaign against comics, championed by psychologist Frederic Wertham. 
 
-Thus, a “simple” comic book cover provides important bibliographic and commericial details and gestures towards the much more complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
-
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision." %}
+
+Thus, a “simple” comic book cover provides important bibliographic and commericial details and gestures towards the much more complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
 
 #### Title pages
 
