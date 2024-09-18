@@ -141,7 +141,7 @@ Among Swinburne’s many literary heroes is the Romantic poet Percy Bysshe Shell
 
 {% include feature/image.html objectid="cbp_0110" width="75" alt="A terminal epigraph quoting the whole of Percy Bysshe Shelley’s sonnet “Ozymandias” (1818) from Avengers #57 (October 1968)" caption="A terminal epigraph quoting the whole of Percy Bysshe Shelley’s sonnet “Ozymandias” (1818) from Avengers #57 (October 1968)"%}
 
-Below is the full text of Shelley’s poem:
+Below is the full text of Shelley’s poem: 
 
 > <span style="font-variant: small-caps;">I met</span> a traveller from an antique land  
 > Who said: Two vast and trunkless legs of stone  
