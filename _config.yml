@@ -11,7 +11,7 @@
 url: https://biblicon.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /cbp
-# location of code, the full url to your github repository
+# location of code, the full url to your github repository  
 source-code: https://github.com/jawalsh/comic-book-paratexts.git
 
 ##########
