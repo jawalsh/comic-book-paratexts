@@ -106,19 +106,19 @@ credits: true
 <tr>
 	<td>paratext type</td>
 	<td>Subject</td>
-	<td></td>
+	<td>See **§ Paratext types** in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a></td>
 	<td>MA</td>
 	<td>R</td>
-	<td>See **§ Paratext types** in [Project-specific controlled vocabularies](metadata-profile-controlled-vocab.html)</td>
+	<td></td>
 	<td><ul><li><code>Correspondence</code></li><li><code>Advertisement</code></li></ul></td>
 </tr>
 <tr>
 	<td>tag</td>
 	<td>Subject</td>
-	<td></td>
+	<td>See **§ Tags** in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</td>
 	<td>MA</td>
 	<td>R</td>
-	<td>See **§ Tags** in [Project-specific controlled vocabularies](metadata-profile-controlled-vocab.html)</td>
+	<td></td>
 	<td><ul><li><code>gender</code></li><li><code>reader-contributed content</code></li></ul></td>
 </tr>
 <tr>
