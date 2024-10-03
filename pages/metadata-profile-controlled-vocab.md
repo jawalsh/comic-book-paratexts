@@ -5,8 +5,8 @@ permalink: /metadata-profile-controlled-vocab.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-
-# Paratext types
+# Project-specific controlled vocabularies for Comic Book Paratexts
+## Paratext types
 
 - `advertisement`
 - `afterword`
@@ -31,7 +31,7 @@ credits: true
 - `title`
 - `typeface`
 
-# Tags
+## Tags
 
 - `comics` 
 - `fandom` 

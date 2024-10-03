@@ -115,7 +115,7 @@ credits: true
 <tr>
 	<td>tag</td>
 	<td>Subject</td>
-	<td>See **§ Tags** in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</td>
+	<td>See **§ Tags** in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a></td>
 	<td>MA</td>
 	<td>R</td>
 	<td></td>
