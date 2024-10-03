@@ -100,13 +100,13 @@ credits: true
 	<td><a href="https://www.w3.org/TR/NOTE-datetime">W3C Date and Time Formats</a></td>
 	<td>MA</td>
 	<td>NR</td>
-	<td>[Year]-{[Month]}</td>
+	<td>[Year]-{[Month]}-{[day]}. Enter year, month, and day as available. Typically, the most precise date will be found in the <a href="https://en.wikipedia.org/wiki/Indicia_%28publishing%29">indicia</a>.</td>
 	<td><ul><li><code>1954-06</code></li><li><code>1963</code></li></ul></td>
 </tr>
 <tr>
 	<td>paratext type</td>
 	<td>Subject</td>
-	<td>See <a style="font-weight:bold;" href="metadata-profile-controlled-vocab.html#paratext-types">§ Paratext types</a> in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a></td>
+	<td>See <a style="font-weight:bold;" href="metadata-profile-controlled-vocab.html#paratext-types">§ Paratext types</a> in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a>. If multiple subjects, separate with semicolons.</td>
 	<td>MA</td>
 	<td>R</td>
 	<td></td>
@@ -115,7 +115,7 @@ credits: true
 <tr>
 	<td>tag</td>
 	<td>Subject</td>
-	<td>See <a style="font-weight:bold;" href="metadata-profile-controlled-vocab.html#paratext-types">§ Tags</a> in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a></td>
+	<td>See <a style="font-weight:bold;" href="metadata-profile-controlled-vocab.html#paratext-types">§ Tags</a> in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a>. If multiple tags, separate with semicolons.</td>
 	<td>MA</td>
 	<td>R</td>
 	<td></td>
