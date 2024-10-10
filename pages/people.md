@@ -17,5 +17,6 @@ credits: true
 ## About the team
 The editor has been assisted by a wonderful team of undergraduate and graduate students at the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/) at [Indiana University](https://indiana.edu/). These students have helped select paratexts, edit image files, and contribute metadata. They are:
 - Evan Brandon
+- Callie Martindale
 - Victor Wynn
 - Brandon Ison
