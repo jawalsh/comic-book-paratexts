@@ -20,7 +20,7 @@ source-code: https://github.com/jawalsh/comic-book-paratexts.git
 # title of site appears in banner
 title: Comic Book Paratexts
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Comic book content outside the panels
+tagline: Comic book content in, around, and outside the panels
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Comic Book Paratexts is a collection of example comic book paratexts, including advertisements, correspondence, dedications, epigraphs, and more."
@@ -54,9 +54,9 @@ metadata: comic-book-paratexts-metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "biblicon.org"
-organization-link: https://biblicon.org
-organization-logo-banner: assets/img/cbp-logo.png
-organization-logo-nav: assets/img/cbp-logo.png
+organization-link: https://biblicon.org/cbp/
+organization-logo-banner: assets/img/cbp-logo-sr.png
+organization-logo-nav: assets/img/cbp-logo-sr.png
 
 ##########
 # GOOGLE SERVICES [optional!]

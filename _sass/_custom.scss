@@ -27,14 +27,14 @@ img.figure-img { border: 2px solid black; }
 padding-top: 20px;
 }
 
-div.title h1 {
+div#title h1 {
   font-size: 32px;
   font-family: ccbiffbamboom, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-div.title {
+div#title {
   font-size: 18px;
   font-family: ccbiffbamboom, sans-serif;
   font-weight: 400;
@@ -47,4 +47,12 @@ nav {
   font-weight: 400;
   font-style: normal;
   text-transform: uppercase;
+}
+
+#home-banner-logo {
+  height: 80px;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .jumbo-tagline, #home-title-box {
+  font-family: ccmeanwhile, "Helvetica Neue", Helvetica, Arial, serif;
 }
