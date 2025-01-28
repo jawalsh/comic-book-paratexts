@@ -20,7 +20,7 @@ source-code: https://github.com/jawalsh/comic-book-paratexts.git
 # title of site appears in banner
 title: Comic Book Paratexts
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of example comic book paratexts.
+tagline: Comic book content outside the panels
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Comic Book Paratexts is a collection of example comic book paratexts, including advertisements, correspondence, dedications, epigraphs, and more."
