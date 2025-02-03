@@ -1,6 +1,6 @@
 ---
 title: Comic Book Paratexts
-layout: about
+layout: page
 permalink: /cbp.html
 # include CollectionBuilder info at bottom
 credits: true
