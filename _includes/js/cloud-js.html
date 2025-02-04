@@ -13,13 +13,21 @@
 {%- assign cloud_id = include.id | default: "cloud" -%}
 {%- assign cloud-fields = include.fields | split: ";" -%}
 
-{%- comment -%} capture terms from all cloud fields {%- endcomment -%}
+{%- comment -%} Capture terms from all cloud fields and include field names {%- endcomment -%}
 {%- assign terms = "" -%}
 {%- for c in cloud-fields -%}
-{% assign new = items | map: c | join: ";" %}
-{% assign terms = terms | append: ";" | append: new %}
+  {%- assign new_terms = items | map: c | join: ";" -%}
+  {%- assign labeled_terms = "" -%}
+
+  {%- for term in new_terms | split: ";" -%}
+    {%- assign labeled_term = c | append: ":" | append: term -%}
+    {%- assign labeled_terms = labeled_terms | append: ";" | append: labeled_term -%}
+  {%- endfor -%}
+
+  {%- assign terms = terms | append: ";" | append: labeled_terms -%}
 {%- endfor -%}
-{%- comment -%} find unique terms and counts {%- endcomment -%}
+
+{%- comment -%} Find unique terms and counts {%- endcomment -%}
 {%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't','t[1] >= termsMin' -%}
 
 <script>
@@ -58,7 +66,9 @@
         {% if include.shuffle == true %}shuffle(array);{% endif %}
         for (i = 0; i < array.length; i++) {
             size = mapSize(array[i][1]);
-            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
+            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + 
+  '" href="{{ "/search.html" | relative_url }}?q=' + encodeURIComponent(array[i][0]) + '" >' + 
+  array[i][0].split(":")[1] + '</a>';
         }
         cloud.innerHTML = items;
     }
