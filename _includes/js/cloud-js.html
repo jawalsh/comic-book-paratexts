@@ -14,20 +14,22 @@
 {%- assign cloud-fields = include.fields | split: ";" -%}
 
 {%- comment -%} Capture terms from all cloud fields and include field names {%- endcomment -%}
-{%- assign terms = "" -%}
-{%- for c in cloud-fields -%}
-  {%- assign new_terms = items | map: c | join: ";" -%}
-
+{%- assign terms = "" -%} 
+{%- for c in cloud-fields -%}  {# Loop through each field name #}
+  {%- assign new_terms = items | map: c | compact | join: ";" -%} {# Remove empty values #}
+  
   {%- for term in new_terms | split: ";" -%}
-    {%- if term != "" -%}
+    {%- if term != "" -%}  {# Ensure we don't process empty terms #}
       {%- assign labeled_term = c | append: ":" | append: term -%}
-      {%- assign terms = terms | append: "," | append: labeled_term -%}  {# Use comma for clear separation #}
+      {%- assign terms = terms | append: "," | append: labeled_term -%}  {# Use comma separator #}
     {%- endif -%}
   {%- endfor -%}
-
 {%- endfor -%}
 
+{# Convert terms to a properly structured array #}
 {%- assign uniqTerms = terms | downcase | split: "," | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
+
+<pre>{{ uniqTerms | join: ", " }}</pre> {# Debugging Output #}
 
 <pre>{{ uniqTerms | join: ", " }}</pre>  {# Debugging Output #}
 <pre>{{ uniqTerms }}</pre>  {# Debugging Output #}
