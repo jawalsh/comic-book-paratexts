@@ -33,7 +33,7 @@ credits: true
 
 ## Tags
 
-- `comics` 
+- `[comics](/cbp/search/index.html?q=tag:comics)` 
 - `fandom` 
 - `games` 
 - `gender` 
