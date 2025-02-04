@@ -19,17 +19,17 @@
   {%- assign new_terms = items | map: c | join: ";" -%}
 
   {%- for term in new_terms | split: ";" -%}
-    {%- if term != "" -%}  {# Avoid empty terms #}
+    {%- if term != "" -%}
       {%- assign labeled_term = c | append: ":" | append: term -%}
-      {%- assign terms = terms | append: ";" | append: labeled_term -%}
+      {%- assign terms = terms | append: "," | append: labeled_term -%}  {# Use comma for clear separation #}
     {%- endif -%}
   {%- endfor -%}
 
 {%- endfor -%}
 
-{%- comment -%} Ensure terms are counted uniquely and formatted correctly {%- endcomment -%}
-{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
+{%- assign uniqTerms = terms | downcase | split: "," | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
 
+<pre>{{ uniqTerms | join: ", " }}</pre>  {# Debugging Output #}
 <pre>{{ uniqTerms }}</pre>  {# Debugging Output #}
 <script>
 (function(){    
