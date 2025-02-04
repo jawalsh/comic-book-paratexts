@@ -21,7 +21,7 @@ credits: true
 - `intertitle`
 - `name of author`
 - `note`
-- `paratext type`
+- `paratext_type`
 - `please-insert`
 - `preface`
 - `public authorial epitext`
