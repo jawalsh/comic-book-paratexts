@@ -4,8 +4,11 @@ title,Title
 creator,Creators
 date,Date
 description,Description
-subject,Subjects
 paratext type, Paratext Type
 tag,Tags
 source,Source
+publisher,Publisher
 gcd id,Grand Comics Database Identifier
+gcd link,Grand Comics Database Link
+image_source,Image Source
+image_source_link,Image Source Link
