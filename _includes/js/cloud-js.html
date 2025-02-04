@@ -17,20 +17,20 @@
 {%- assign terms = "" -%}
 {%- for c in cloud-fields -%}
   {%- assign new_terms = items | map: c | join: ";" -%}
-  {%- assign labeled_terms = "" -%}
 
   {%- for term in new_terms | split: ";" -%}
-    {%- if term != "" -%}
+    {%- if term != "" -%}  {# Avoid empty terms #}
       {%- assign labeled_term = c | append: ":" | append: term -%}
-      {%- assign labeled_terms = labeled_terms | append: ";" | append: labeled_term -%}
+      {%- assign terms = terms | append: ";" | append: labeled_term -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%- assign terms = terms | append: ";" | append: labeled_terms -%}
 {%- endfor -%}
 
-{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't','t[1] >= termsMin' -%}
+{%- comment -%} Ensure terms are counted uniquely and formatted correctly {%- endcomment -%}
+{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
 
+<pre>{{ uniqTerms }}</pre>  {# Debugging Output #}
 <script>
 (function(){    
     /* subject terms + count */
