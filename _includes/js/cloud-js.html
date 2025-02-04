@@ -13,26 +13,15 @@
 {%- assign cloud_id = include.id | default: "cloud" -%}
 {%- assign cloud-fields = include.fields | split: ";" -%}
 
-{%- comment -%} Capture terms from all cloud fields and include field names {%- endcomment -%}
-{%- assign terms = "" -%} 
-{%- for c in cloud-fields -%}  {# Loop through each field name #}
-  {%- assign new_terms = items | map: c | compact | join: ";" -%} {# Remove empty values #}
-  
-  {%- for term in new_terms | split: ";" -%}
-    {%- if term != "" -%}  {# Ensure we don't process empty terms #}
-      {%- assign labeled_term = c | append: ":" | append: term -%}
-      {%- assign terms = terms | append: "," | append: labeled_term -%}  {# Use comma separator #}
-    {%- endif -%}
-  {%- endfor -%}
+{%- comment -%} capture terms from all cloud fields {%- endcomment -%}
+{%- assign terms = "" -%}
+{%- for c in cloud-fields -%}
+{% assign new = items | map: c | join: ";" %}
+{% assign terms = terms | append: ";" | append: new %}
 {%- endfor -%}
+{%- comment -%} find unique terms and counts {%- endcomment -%}
+{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't','t[1] >= termsMin' -%}
 
-{# Convert terms to a properly structured array #}
-{%- assign uniqTerms = terms | downcase | split: "," | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
-
-<pre>{{ uniqTerms | join: ", " }}</pre> {# Debugging Output #}
-
-<pre>{{ uniqTerms | join: ", " }}</pre>  {# Debugging Output #}
-<pre>{{ uniqTerms }}</pre>  {# Debugging Output #}
 <script>
 (function(){    
     /* subject terms + count */
@@ -69,9 +58,7 @@
         {% if include.shuffle == true %}shuffle(array);{% endif %}
         for (i = 0; i < array.length; i++) {
             size = mapSize(array[i][1]);
-            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + 
-  '" href="{{ "/search.html" | relative_url }}?q=' + encodeURIComponent(array[i][0]) + '" >' + 
-  array[i][0].split(":")[1] + '</a>';
+            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
         }
         cloud.innerHTML = items;
     }
