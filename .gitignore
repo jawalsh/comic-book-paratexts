@@ -21,7 +21,8 @@ Gemfile.lock
 objects/
 small/
 thumbs/
-build.sh
+prodbuild.sh
+devbuild.sh
 num2csv.scpt
 objects/README.md
 objects
