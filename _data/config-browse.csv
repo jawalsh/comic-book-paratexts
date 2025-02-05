@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 source,Source,,,
-paratext type,Paratext type,,,Paratext type
+paratext_type,Paratext type,,,Paratext type
 tag,Tags,,,

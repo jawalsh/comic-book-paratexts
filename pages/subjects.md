@@ -9,6 +9,6 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-Use this word cloud visualization to browse paratext types (e.g., dedication, epigraph, title) and descriptive and topical tags (e.g., in memoriam, reader-contributed content, gender). 
+Use this word cloud visualization to browse paratext_types (e.g., dedication, epigraph, title) and descriptive and topical tags (e.g., in memoriam, reader-contributed content, gender). 
 
 Word or term size is determined by frequency. Words and terms are links that will execute a search on the selected word or term.

@@ -49,7 +49,7 @@ credits: true
 	<td></td>
 	<td>M</td>
 	<td>R</td>
-	<td>Combines ‘paratext type,’ ‘source,’ and scope fields. Title should appear in the form: [paratext type]: [source]. {Scope}</td>
+	<td>Combines ‘paratext_type,’ ‘source,’ and scope fields. Title should appear in the form: [paratext_type]: [source]. {Scope}</td>
 	<td>
 		<ul>
 			<li><code>Correspondence: &quot;Let’s Level with Daredevil.” Daredevil #36 (January 1968). Marvel comics.</code></li>
@@ -104,7 +104,7 @@ credits: true
 	<td><ul><li><code>1954-06</code></li><li><code>1963</code></li></ul></td>
 </tr>
 <tr>
-	<td>paratext type</td>
+	<td>paratext_type</td>
 	<td>Subject</td>
 	<td>See <a style="font-weight:bold;" href="metadata-profile-controlled-vocab.html#paratext-types">§ Paratext types</a> in <a href="metadata-profile-controlled-vocab.html">Project-specific controlled vocabularies</a>. If multiple subjects, separate with semicolons.</td>
 	<td>MA</td>
@@ -149,12 +149,12 @@ credits: true
 	<td><ul><li><a href="https://comicbookplus.com/?dlid=62348">https://comicbookplus.com/?dlid=62348</a></li><li><a href="https://digitalcomicmuseum.com/index.php?dlid=1014">https://digitalcomicmuseum.com/index.php?dlid=1014</a></li></ul></td>
 </tr>
 <tr>
-	<td>gcd id</td>
+	<td>gcd_id</td>
 	<td>Relation</td>
 	<td></td>
 	<td>MA</td>
 	<td>NR</td>
-	<td>Find the specific issue at the Grand Comics Database at <a href="http://comics.org">comics.org</a>. The gcd id is the number following <a href="https://www.comics.org/issue/">https://www.comics.org/issue/</a> in the URL. For example, for <em>Fantastic Four</em> #11, the URL to the issue is <a href="https://www.comics.org/issue/17516/">https://www.comics.org/issue/17516/</a>, and the gcd id is 17516.</td>
+	<td>Find the specific issue at the Grand Comics Database at <a href="http://comics.org">comics.org</a>. The gcd_id is the number following <a href="https://www.comics.org/issue/">https://www.comics.org/issue/</a> in the URL. For example, for <em>Fantastic Four</em> #11, the URL to the issue is <a href="https://www.comics.org/issue/17516/">https://www.comics.org/issue/17516/</a>, and the gcd_id is 17516.</td>
 	<td><ul><li><code>99</code></li><li><code>17516</code></li><li><code>293</code></li><li><code>601</code></li></ul></td>
 </tr>
 <tr>

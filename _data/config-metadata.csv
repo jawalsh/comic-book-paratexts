@@ -1,11 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-paratext type,Paratext type,,,,
+paratext_type,Paratext type,true,,DCTERMS.subject,
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-tag,Tags,true,,,,
+tag,Tags,true,,DCTERMS.subject,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
@@ -13,7 +12,7 @@ source,Source,,,,
 publisher,Publisher,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
-gcd link,GCD ID,,,,
+gcd_link,GCD ID,,,,
 objectid,CBP ID,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
