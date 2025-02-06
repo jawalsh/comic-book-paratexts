@@ -13,14 +13,43 @@
 {%- assign cloud_id = include.id | default: "cloud" -%}
 {%- assign cloud-fields = include.fields | split: ";" -%}
 
-{%- comment -%} capture terms from all cloud fields {%- endcomment -%}
 {%- assign terms = "" -%}
+
+{% comment %} Loop through each field in cloud-fields {% endcomment %}
 {%- for c in cloud-fields -%}
-{% assign new = items | map: c | join: ";" %}
-{% assign terms = terms | append: ";" | append: new %}
+  
+  {% comment %} Collect all terms for the current field, joined with ";" {% endcomment %}
+  {%- assign new_terms = items | map: c | join: ";" -%}
+  
+  {% comment %} Split the terms into an array to process them individually {% endcomment %}
+  {%- assign split_terms = new_terms | split: ";" -%}
+
+  {% comment %} Loop through each individual term {% endcomment %}
+  {%- for term in split_terms -%}
+    
+    {% comment %} Remove leading and trailing whitespace {% endcomment %}
+    {%- assign term = term | strip -%}
+
+    {% comment %} Ensure the term is not empty or nil before processing {% endcomment %}
+    {%- if term != "" and term != nil -%}
+      
+      {% comment %} Prefix the term with its field name {% endcomment %}
+      {%- assign labeled_term = c | append: ":" | append: term -%}
+
+      {% comment %} Append the labeled term to the terms list {% endcomment %}
+      {%- assign terms = terms | append: ";" | append: labeled_term -%}
+
+    {%- endif -%}
+
+  {%- endfor -%}
+
 {%- endfor -%}
-{%- comment -%} find unique terms and counts {%- endcomment -%}
-{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't','t[1] >= termsMin' -%}
+
+{% comment %} Process terms: lowercase, split, count unique, sort, and filter by minimum threshold {% endcomment %}
+{%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq | sort | where_exp: 't', 't[1] >= termsMin' -%}
+
+{% comment %} Debugging output to verify term formatting {% endcomment %}
+<pre>{{ uniqTerms | join: ", " }}</pre>
 
 <script>
 (function(){    
@@ -58,7 +87,7 @@
         {% if include.shuffle == true %}shuffle(array);{% endif %}
         for (i = 0; i < array.length; i++) {
             size = mapSize(array[i][1]);
-            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
+            items += '<a class="btn btn-{{ include.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/search/index.html" | relative_url }}?q=' + encodeURIComponent(array[i][0]) + '" >' + array[i][0].split(":")[1] + '</a>';
         }
         cloud.innerHTML = items;
     }
