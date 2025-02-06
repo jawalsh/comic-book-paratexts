@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://biblicon.org
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /cbp
+baseurl: /cbp_dev
 # location of code, the full url to your github repository  
 source-code: https://github.com/jawalsh/comic-book-paratexts.git
 
