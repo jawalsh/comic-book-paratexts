@@ -3,6 +3,10 @@
 <script src="{{ '/assets/lib/lunr.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/lunr-store.js' | relative_url }}"></script>
 <script>
+
+//adjust tokenize string to doesn't tokenize on /u00A0 (for multi-word tags, etc.)
+lunr.tokenizer.separator = /[ \t\r\n\f\v\u200B\u200C]+/; // Excludes \u00A0 
+
 /* initialize lunr */
 var idx = lunr(function () {
   /* add index fields from config */
@@ -11,9 +15,16 @@ var idx = lunr(function () {
   this.field({{ f.field | jsonify }})
   {% endfor %}
 
+
   //this.pipeline.remove(lunr.trimmer)
 
   for (var item in store) {
+    if (store[item].tag) {
+        store[item].tag = store[item].tag.split(";").map(tag => tag.trim());
+    }
+    
+//    console.log("Adding to index:", store[item]); // Debugging: Ensure tags are correctly split
+
     this.add({
       {% for f in index_fields %}
       {{ f.field | jsonify }}: store[item][{{ f.field | jsonify }}],
@@ -23,6 +34,8 @@ var idx = lunr(function () {
   }
 
 });
+
+console.log("Indexed Documents:", JSON.stringify(idx, null, 2));
 
 /* search function */
 function lunr_search () {
