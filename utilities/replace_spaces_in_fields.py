@@ -7,7 +7,7 @@ def preprocess_csv(input_file, output_file, columns_to_modify):
     # Replace spaces with Zero Width Non-Joiner (\u200C) in specified columns
     for col in columns_to_modify:
         if col in df.columns:  # Check if column exists
-            df[col] = df[col].str.replace(" ", "\u00A0", regex=False)
+            df[col] = df[col].str.replace(r"[ \-]", "_", regex=True)
 
     # Save processed file
     df.to_csv(output_file, index=False, encoding='utf-8')
