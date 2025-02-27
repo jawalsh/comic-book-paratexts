@@ -3,7 +3,6 @@ title,true,true
 date,true,true
 creator,true,false
 description,true,true
-location,true,false
 objectid,true,true
 tag,true,true
 paratext_type,true,true
