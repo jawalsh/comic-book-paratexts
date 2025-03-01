@@ -3,6 +3,7 @@
 layout: page
 custom-foot: js/browse-js.html
 ---
+{%- assign fields = site.data.config-browse -%}
 
 {{ content }}
 
@@ -10,6 +11,13 @@ custom-foot: js/browse-js.html
     <div class="col-md-8 text-center">
         <form role="search" id="lunrSearch" onsubmit="submitFilter(); return false;">
             <div class="input-group input-group-lg">
+                <select class="form-control form-select" id="fieldSelect" style="max-width: 200px;">
+                    <option value="all">All Fields</option>
+                    <option value="title">Title</option>
+                    {% for f in fields %}{% unless f.hidden == 'true' and f.sort == '' %}
+                    <option value="{{ f.field }}">{{ f.display_name | default: f.field }}</option>
+                    {% endunless %}{% endfor %}
+                </select>
                 <input type="text" class="form-control" id="filterTextBox" placeholder="Filter ... " aria-label="Search"> 
                 <button class="btn btn-success" type="submit" title="Filter items" alt="Search" id="filterButton" >Search</button>
                 <button class="btn btn-outline-secondary filter" onclick="resetFilter(); return false;" data-filter="">Reset</button>
