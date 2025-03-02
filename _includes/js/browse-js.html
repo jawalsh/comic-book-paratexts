@@ -235,9 +235,11 @@ if(window.location.hash) {
 function submitFilter() {
     query = filterTextBox.value;
     var field = document.querySelector("#fieldSelect").value;
+    
     if (field === "all") {
         window.location.hash = encodeURIComponent(query);
     } else {
+        // Create a field-specific search
         window.location.hash = encodeURIComponent(field + ":" + query);
     }
 }
@@ -275,27 +277,77 @@ const validFields = [{% for f in fields %}"{{ f.field }}",{% endfor %}];
 function handleHashChange() {
     var hash = decodeURIComponent(location.hash.substr(1));
     
-    // Clear any existing URL parameters from advanced search
-    history.pushState({}, '', window.location.pathname + location.hash);
+    // If no hash, show all items
+    if (!hash) {
+        // Only clear history if there are no URL parameters
+        if (!window.location.search) {
+            history.pushState({type: 'clear'}, '', window.location.pathname);
+            advancedFilterItems(items, []);
+        }
+        return;
+    }
     
-    // Check if hash contains a colon and potentially a field search
+    // Check if hash contains a field specification
     if (hash.includes(":")) {
         var field = hash.substring(0, hash.indexOf(":")).trim();
         var value = hash.substring(hash.indexOf(":") + 1).trim();
+        
         // Check if it's a valid field
         if (validFields.includes(field)) {
-            query = value;
+            const searchCriteria = [{
+                boolean: 'AND',
+                field: field,
+                value: value
+            }];
             filterTextBox.value = value;
             document.querySelector("#fieldSelect").value = field;
-            filterItems(items, query, field);
+            // Save hash search state
+            history.pushState(
+                {type: 'hash-field', criteria: searchCriteria}, 
+                '', 
+                window.location.pathname + '#' + hash
+            );
+            advancedFilterItems(items, searchCriteria);
         }
     } else {
-        // No colon, regular search
-        query = hash;
-        filterTextBox.value = query;
+        // For simple hash searches, search across all fields
+        filterTextBox.value = hash;
         document.querySelector("#fieldSelect").value = "all";
-        filterItems(items, query, "all");
+        // Save simple hash search state
+        history.pushState(
+            {type: 'hash-simple', query: hash}, 
+            '', 
+            window.location.pathname + '#' + hash
+        );
+        simpleSearch(items, hash);
     }
+}
+
+// Add a simple search function for basic hash searches
+function simpleSearch(arr, query) {
+    loadingIcon.classList.remove("d-none");
+    
+    var filteredItems = arr;
+    if (query) {
+        query = query.trim().toUpperCase();
+        filteredItems = arr.filter(item => {
+            var val = "";
+            for (var k in item) {
+                val += item[k] + " ";
+            }
+            return val.toUpperCase().indexOf(query) !== -1;
+        });
+    }
+    
+    // Update results count
+    document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
+    
+    // Generate cards
+    var cards = filteredItems.map(item => makeCard(item)).join("");
+    browseItemsDiv.innerHTML = cards;
+    
+    filterButton.focus();
+    loadingIcon.classList.add("d-none");
 }
 
 // Update event listeners to use handleHashChange
@@ -304,10 +356,32 @@ window.addEventListener("hashchange", handleHashChange);
 // Add this to your existing window.onload or initialization code
 window.addEventListener('popstate', function(event) {
     if (event.state) {
-        advancedFilterItems(items, event.state);
+        switch(event.state.type) {
+            case 'advanced':
+                advancedFilterItems(items, event.state.criteria);
+                break;
+            case 'hash-field':
+                advancedFilterItems(items, event.state.criteria);
+                break;
+            case 'hash-simple':
+                simpleSearch(items, event.state.query);
+                break;
+            case 'clear':
+                filterTextBox.value = '';
+                document.querySelector("#fieldSelect").value = "all";
+                advancedFilterItems(items, []);
+                break;
+        }
     } else {
-        // Handle regular hash-based search
-        handleHashChange();
+        // Handle case when there's no state but there might be a hash
+        if (window.location.hash) {
+            handleHashChange();
+        } else {
+            // Reset to initial state
+            filterTextBox.value = '';
+            document.querySelector("#fieldSelect").value = "all";
+            advancedFilterItems(items, []);
+        }
     }
 });
 
@@ -443,13 +517,15 @@ function advancedFilterItems(arr, searchCriteria) {
     loadingIcon.classList.remove("d-none");
     
     var filteredItems = arr.filter(item => {
+        // If no criteria, return all items
+        if (!searchCriteria.length) return true;
+        
         let result = true;
         let previousResult = true;
         
         for (let i = 0; i < searchCriteria.length; i++) {
             const {boolean, field, value} = searchCriteria[i];
             
-            // Skip empty criteria
             if (!value) continue;
             
             const itemValue = item[field];
@@ -466,7 +542,6 @@ function advancedFilterItems(arr, searchCriteria) {
                     result = previousResult || matches;
                     break;
                 case 'NOT':
-                    // For NOT, we want true if the field doesn't exist OR if it doesn't match
                     result = previousResult && (!itemValue || !matches);
                     break;
                 default:
@@ -479,10 +554,7 @@ function advancedFilterItems(arr, searchCriteria) {
     
     document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
     
-    var cards = "";
-    for (var i = 0, len = filteredItems.length; i < len; i++) {
-        cards += makeCard(filteredItems[i]);
-    }
+    var cards = filteredItems.map(item => makeCard(item)).join("");
     browseItemsDiv.innerHTML = cards;
     
     loadingIcon.classList.add("d-none");
@@ -511,9 +583,13 @@ function submitAdvancedSearch() {
         queryString.append(`v${index}`, criteria.value);
     });
     
-    // Update URL without triggering reload
+    // Update URL with state type
     const newUrl = `${window.location.pathname}?${queryString.toString()}`;
-    history.pushState(searchCriteria, '', newUrl);
+    history.pushState(
+        {type: 'advanced', criteria: searchCriteria}, 
+        '', 
+        newUrl
+    );
     
     // Filter items
     advancedFilterItems(items, searchCriteria);
