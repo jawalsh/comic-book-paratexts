@@ -127,6 +127,62 @@ function filterItems(arr,q,field="all") {
     loadingIcon.classList.add("d-none");
 };
 
+// Add this function after the existing filterItems function
+function advancedFilterItems(arr, searchParams) {
+    loadingIcon.classList.remove("d-none");
+    
+    var filteredItems = arr.filter(item => {
+        return Object.entries(searchParams).every(([field, value]) => {
+            if (!value) return true; // Skip empty search terms
+            if (!item[field]) return false;
+            
+            let fieldValues = item[field].toString().split(";");
+            return fieldValues.some(v => 
+                v.trim().toUpperCase().includes(value.trim().toUpperCase())
+            );
+        });
+    });
+    
+    document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
+    
+    var cards = "";
+    for (var i = 0, len = filteredItems.length; i < len; i++) {
+        cards += makeCard(filteredItems[i]);
+    }
+    browseItemsDiv.innerHTML = cards;
+    
+    loadingIcon.classList.add("d-none");
+}
+
+function submitAdvancedSearch() {
+    const form = document.getElementById('advancedSearchForm');
+    const inputs = form.querySelectorAll('input');
+    const searchParams = {};
+    
+    inputs.forEach(input => {
+        const value = input.value.trim();
+        if (value) {
+            searchParams[input.dataset.field] = value;
+        }
+    });
+    
+    // Create URL parameters
+    const queryString = new URLSearchParams();
+    Object.entries(searchParams).forEach(([field, value]) => {
+        queryString.append(field, value);
+    });
+    
+    // Update URL without triggering reload
+    const newUrl = `${window.location.pathname}?${queryString.toString()}`;
+    history.pushState(searchParams, '', newUrl);
+    
+    // Filter items
+    advancedFilterItems(items, searchParams);
+    
+    // Close modal
+    bootstrap.Modal.getInstance(document.getElementById('advancedSearchModal')).hide();
+}
+
 /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
 function shuffle(array) {
     var m = array.length, t, i;
@@ -227,6 +283,16 @@ function handleHashChange() {
 // Update event listeners to use handleHashChange
 window.addEventListener("hashchange", handleHashChange);
 
+// Add this to your existing window.onload or initialization code
+window.addEventListener('popstate', function(event) {
+    if (event.state) {
+        advancedFilterItems(items, event.state);
+    } else {
+        // Handle regular hash-based search
+        handleHashChange();
+    }
+});
+
 // Initial load
 if(window.location.hash) {
     handleHashChange();
@@ -234,6 +300,18 @@ if(window.location.hash) {
     query = "";
     filterItems(items, query, "all");
 }
+
+// Initial load - check for URL parameters
+window.addEventListener('load', function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.toString()) {
+        const searchParams = {};
+        for (const [key, value] of urlParams) {
+            searchParams[key] = value;
+        }
+        advancedFilterItems(items, searchParams);
+    }
+});
 
 /* item array sorting function */
 function sorting(json_object, key_to_sort_by) {
