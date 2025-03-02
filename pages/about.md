@@ -23,3 +23,6 @@ For a more extensive overview of paratexts and comic book paratexts, please see 
 - [about: people](people.html)
 - [about: metadata application profile](metadataprofile.html)
 - [about: Comic Book Paratexts: An Introduction](cbp.html)
+
+## Acknowledgements
+I want to offer special thanks to the [CollectionBuilder](https://collectionbuilder.github.io) team. Without their amazing digital collections platform, _Comic Book Paratexts_ would not be possible in anything like its current form and functionality. I especially want to thank two members of the team, my former students [Devin Becker](https://www.lib.uidaho.edu/about/people/dbecker.html) and [Olivia Wikle](https://www.lib.iastate.edu/people/olivia-wikle). I am extremely proud and appreciative of their work.
