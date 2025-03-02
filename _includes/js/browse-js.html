@@ -81,7 +81,8 @@ function makeCard(obj) {
 }
 
 /* filter items function */
-function filterItems(arr,q,field="all") {
+function filterItems(arr,q) {
+    // show loading icon
     loadingIcon.classList.remove("d-none");
     // dont filter if no q 
     if (q=="") { 
@@ -90,28 +91,14 @@ function filterItems(arr,q,field="all") {
         q = q.trim().toUpperCase(); 
         // js indexOf filter
         var filteredItems = [];
-        
         for (var i = 0, len = arr.length; i < len; i++) {
-            // If searching all fields, use original search behavior
-            if (field === "all") {
-                var val = "";
-                for (var k in arr[i]) { 
-                    val += arr[i][k] + " "; 
-                }
-                if(val.toUpperCase().indexOf(q) != -1){
-                    filteredItems.push(arr[i]);
-                }
-            } 
-            // If searching specific field, handle semicolon-separated values
-            else if (arr[i][field]) {
-                let fieldValues = arr[i][field].toString().split(";");
-                if (fieldValues.some(value => value.trim().toUpperCase().indexOf(q) != -1)) {
-                    filteredItems.push(arr[i]);
-                }
+            var val = "";
+        for (var k in arr[i]) { val += arr[i][k] + " "; }
+            if(val.toUpperCase().indexOf(q) != -1){
+                filteredItems.push(arr[i]);
             }
         }
     }
-    
     // add number 
     document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
     
@@ -158,7 +145,7 @@ if (matchingDropdownItem) {
         shuffle(items);
     }
 
-/* set some elements and get URL parameters */ 
+/* set some elements */ 
 var loadingIcon = document.querySelector("#loadingIcon");
 var filterTextBox = document.querySelector('#filterTextBox');
 var filterButton = document.querySelector("#filterButton");
@@ -178,62 +165,23 @@ if(window.location.hash) {
 /* filter form */
 function submitFilter() {
     query = filterTextBox.value;
-    var field = document.querySelector("#fieldSelect").value;
-    if (field === "all") {
-        window.location.hash = encodeURIComponent(query);
-    } else {
-        window.location.hash = encodeURIComponent(field + ":" + query);
-    }
+    window.location.hash = encodeURIComponent(query);
 }
-
+/* reset filters */ 
 function resetFilter() {
     query = "";
     filterTextBox.value = query;
-    document.querySelector("#fieldSelect").value = "all";
-    window.location.hash = "";
+    window.location.hash = encodeURIComponent(query);
 }
-
-/* Create array of valid fields from config-browse */
-const validFields = [{% for f in fields %}"{{ f.field }}",{% endfor %}];
 
 /* filter if hash changes */ 
-function handleHashChange() {
-    var hash = decodeURIComponent(location.hash.substr(1));
-    
-    // Check if hash contains a colon and potentially a field search
-    if (hash.includes(":")) {
-        var [potentialField, q] = hash.split(":");
-        // Check if the potential field exists in validFields
-        if (validFields.includes(potentialField)) {
-            // Valid field search
-            document.querySelector("#fieldSelect").value = potentialField;
-            filterTextBox.value = q;
-            filterItems(items, q, potentialField);
-        } else {
-            // Invalid field, search all fields with original hash
-            filterTextBox.value = hash;
-            document.querySelector("#fieldSelect").value = "all";
-            filterItems(items, hash, "all");
-        }
-    } else {
-        // No colon, regular search
-        query = hash;
-        filterTextBox.value = query;
-        document.querySelector("#fieldSelect").value = "all";
-        filterItems(items, query, "all");
-    }
-}
-
-// Update event listeners to use handleHashChange
-window.addEventListener("hashchange", handleHashChange);
-
-// Initial load
-if(window.location.hash) {
-    handleHashChange();
-} else {
-    query = "";
-    filterItems(items, query, "all");
-}
+window.addEventListener("hashchange", function() {
+    // read hash
+    query = decodeURIComponent(location.hash.substr(1));
+    filterTextBox.value = query;
+    // filter
+    filterItems(items,query);
+});
 
 /* item array sorting function */
 function sorting(json_object, key_to_sort_by) {
@@ -272,10 +220,5 @@ sortOptions.forEach((button) => {
     }
   });
 }); 
-
-document.querySelector("#fieldSelect").addEventListener("change", function(e) {
-    document.querySelector("#selectedField").textContent = 
-        e.target.options[e.target.selectedIndex].text;
-});
 
 </script>
