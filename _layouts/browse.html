@@ -14,7 +14,7 @@ custom-foot: js/browse-js.html
     <div class="col-md-8 text-center">
         <form role="search" id="lunrSearch" onsubmit="submitFilter(); return false;">
             <div class="input-group input-group-lg">
-                <select class="form-control form-select {% unless site.data.theme.faceted-search == true %} d-none{% endunless %}" id="fieldSelect" style="max-width: 200px;">
+                <select class="form-control form-select {% unless site.data.theme.faceted-search == true %} d-none{% endunless %}" id="fieldSelect" style="max-width: 200px;" aria-label="select search field to filter">
                     <option value="all">All Fields</option>
                     <option value="title">Title</option>
                     {% for f in fields %}{% unless f.hidden == 'true' and f.sort == '' %}
