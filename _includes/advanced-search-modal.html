@@ -15,7 +15,8 @@
             </div>
             <div class="mt-3">
               <button type="button" class="btn btn-outline-secondary btn-sm" onclick="addSearchRow()">
-                <i class="bi bi-plus-circle"></i> Add Another Field
+                {% include feature/icon.html icon="plus-circle" label="plus circle" %}
+                Add Another Field
               </button>
             </div>
           </form>
@@ -53,7 +54,8 @@
       </div>
       <div class="col-auto">
         <button type="button" class="btn btn-sm btn-outline-danger remove-row">
-          <i class="bi bi-x-circle"></i>
+          
+          {% include feature/icon.html icon="x-circle" label="remove/x circle" %}
         </button>
       </div>
     </div>

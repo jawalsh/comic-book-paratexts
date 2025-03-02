@@ -243,10 +243,29 @@ function submitFilter() {
 }
 
 function resetFilter() {
+    // Clear basic search
     query = "";
     filterTextBox.value = query;
     document.querySelector("#fieldSelect").value = "all";
     window.location.hash = "";
+
+    // Clear URL parameters
+    history.pushState({}, '', window.location.pathname);
+
+    // Reset advanced search form if it exists
+    const advancedForm = document.getElementById('advancedSearchForm');
+    if (advancedForm) {
+        const searchRows = document.getElementById('searchRows');
+        // Clear existing rows
+        searchRows.innerHTML = '';
+        // Add back 3 empty default rows
+        for (let i = 0; i < 3; i++) {
+            addSearchRow();
+        }
+    }
+
+    // Reset display to show all items
+    filterItems(items, "", "all");
 }
 
 /* Create array of valid fields from config-browse */
@@ -256,20 +275,19 @@ const validFields = [{% for f in fields %}"{{ f.field }}",{% endfor %}];
 function handleHashChange() {
     var hash = decodeURIComponent(location.hash.substr(1));
     
+    // Clear any existing URL parameters from advanced search
+    history.pushState({}, '', window.location.pathname + location.hash);
+    
     // Check if hash contains a colon and potentially a field search
     if (hash.includes(":")) {
-        var [potentialField, q] = hash.split(":");
-        // Check if the potential field exists in validFields
-        if (validFields.includes(potentialField)) {
-            // Valid field search
-            document.querySelector("#fieldSelect").value = potentialField;
-            filterTextBox.value = q;
-            filterItems(items, q, potentialField);
-        } else {
-            // Invalid field, search all fields with original hash
-            filterTextBox.value = hash;
-            document.querySelector("#fieldSelect").value = "all";
-            filterItems(items, hash, "all");
+        var field = hash.substring(0, hash.indexOf(":")).trim();
+        var value = hash.substring(hash.indexOf(":") + 1).trim();
+        // Check if it's a valid field
+        if (validFields.includes(field)) {
+            query = value;
+            filterTextBox.value = value;
+            document.querySelector("#fieldSelect").value = field;
+            filterItems(items, query, field);
         }
     } else {
         // No colon, regular search
@@ -333,27 +351,221 @@ sortOptions.forEach((button) => {
     // get the sort field
     var field = button.dataset.filter;
     var display_name = button.textContent;
-    // get current filter
-    var query = filterTextBox.value;
+    
     // switch active sort option
-    sortOptions.forEach((option) => { option.classList.remove("active"); } );
+    sortOptions.forEach((option) => { option.classList.remove("active"); });
     button.classList.add("active");
     sortFilter.innerHTML = display_name;
-    // send to sort and filter
-    if (field != 'random') {
-        sorting(items, field);
-        filterItems(items, query);
+    
+    // Check if we're in an advanced search state
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchCriteria = [];
+    let index = 0;
+    
+    while (urlParams.has(`f${index}`)) {
+      searchCriteria.push({
+        boolean: urlParams.get(`b${index}`),
+        field: urlParams.get(`f${index}`),
+        value: urlParams.get(`v${index}`)
+      });
+      index++;
     }
-    else {
+    
+    // If we have active advanced search criteria
+    if (searchCriteria.length > 0) {
+      if (field != 'random') {
+        sorting(items, field);
+        advancedFilterItems(items, searchCriteria);
+      } else {
         shuffle(items);
-        filterItems(items, query);
+        advancedFilterItems(items, searchCriteria);
+      }
+    } 
+    // Otherwise handle regular or field-specific search
+    else {
+      // get current filter and field
+      var query = filterTextBox.value;
+      var searchField = document.querySelector("#fieldSelect").value;
+      
+      if (field != 'random') {
+        sorting(items, field);
+        filterItems(items, query, searchField);
+      } else {
+        shuffle(items);
+        filterItems(items, query, searchField);
+      }
     }
   });
-}); 
+});
 
 document.querySelector("#fieldSelect").addEventListener("change", function(e) {
     document.querySelector("#selectedField").textContent = 
         e.target.options[e.target.selectedIndex].text;
 });
 
+// Add these functions after your existing JavaScript
+
+function addSearchRow(values = {}) {
+    const template = document.getElementById('searchRowTemplate');
+    const searchRows = document.getElementById('searchRows');
+    const newRow = template.content.cloneNode(true);
+    const row = newRow.querySelector('.search-row');
+    
+    // Set values if provided
+    if (values.boolean) {
+        row.querySelector('.boolean-operator').value = values.boolean;
+    }
+    if (values.field) {
+        row.querySelector('.field-select').value = values.field;
+    }
+    if (values.value) {
+        row.querySelector('.search-input').value = values.value;
+    }
+    
+    // Hide boolean operator for first row
+    if (searchRows.children.length === 0) {
+        row.querySelector('.boolean-operator').style.visibility = 'hidden';
+    }
+    
+    // Add remove button handler
+    row.querySelector('.remove-row').addEventListener('click', function() {
+        row.remove();
+        // Show first boolean operator if this was the second row
+        if (searchRows.children.length === 1) {
+            searchRows.querySelector('.boolean-operator').style.visibility = 'hidden';
+        }
+    });
+    
+    searchRows.appendChild(row);
+}
+
+function advancedFilterItems(arr, searchCriteria) {
+    loadingIcon.classList.remove("d-none");
+    
+    var filteredItems = arr.filter(item => {
+        let result = true;
+        let previousResult = true;
+        
+        for (let i = 0; i < searchCriteria.length; i++) {
+            const {boolean, field, value} = searchCriteria[i];
+            
+            // Skip empty criteria
+            if (!value) continue;
+            
+            const itemValue = item[field];
+            const fieldValues = itemValue ? itemValue.toString().split(";") : [];
+            const matches = fieldValues.some(v => 
+                v.trim().toUpperCase().includes(value.trim().toUpperCase())
+            );
+            
+            switch(boolean) {
+                case 'AND':
+                    result = previousResult && matches;
+                    break;
+                case 'OR':
+                    result = previousResult || matches;
+                    break;
+                case 'NOT':
+                    // For NOT, we want true if the field doesn't exist OR if it doesn't match
+                    result = previousResult && (!itemValue || !matches);
+                    break;
+                default:
+                    result = matches;
+            }
+            previousResult = result;
+        }
+        return result;
+    });
+    
+    document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
+    
+    var cards = "";
+    for (var i = 0, len = filteredItems.length; i < len; i++) {
+        cards += makeCard(filteredItems[i]);
+    }
+    browseItemsDiv.innerHTML = cards;
+    
+    loadingIcon.classList.add("d-none");
+}
+
+function submitAdvancedSearch() {
+    const form = document.getElementById('advancedSearchForm');
+    const rows = form.querySelectorAll('.search-row');
+    const searchCriteria = [];
+    
+    rows.forEach((row, index) => {
+        const boolean = index === 0 ? 'AND' : row.querySelector('.boolean-operator').value;
+        const field = row.querySelector('.field-select').value;
+        const value = row.querySelector('.search-input').value.trim();
+        
+        if (value) {
+            searchCriteria.push({ boolean, field, value });
+        }
+    });
+    
+    // Create URL parameters
+    const queryString = new URLSearchParams();
+    searchCriteria.forEach((criteria, index) => {
+        queryString.append(`b${index}`, criteria.boolean);
+        queryString.append(`f${index}`, criteria.field);
+        queryString.append(`v${index}`, criteria.value);
+    });
+    
+    // Update URL without triggering reload
+    const newUrl = `${window.location.pathname}?${queryString.toString()}`;
+    history.pushState(searchCriteria, '', newUrl);
+    
+    // Filter items
+    advancedFilterItems(items, searchCriteria);
+    
+    // Close modal
+    bootstrap.Modal.getInstance(document.getElementById('advancedSearchModal')).hide();
+}
+
+// Add this to your window.addEventListener('load') function
+window.addEventListener('load', function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchCriteria = [];
+    let index = 0;
+    
+    // Clear existing rows in the modal
+    const searchRows = document.getElementById('searchRows');
+    if (searchRows) {
+        searchRows.innerHTML = '';
+    }
+    
+    // If we have URL parameters, use them to populate search rows
+    while (urlParams.has(`f${index}`)) {
+        const values = {
+            boolean: urlParams.get(`b${index}`),
+            field: urlParams.get(`f${index}`),
+            value: urlParams.get(`v${index}`)
+        };
+        searchCriteria.push(values);
+        
+        // Add a row with these values to the modal
+        addSearchRow(values);
+        index++;
+    }
+    
+    // If we have search criteria, filter items
+    if (searchCriteria.length > 0) {
+        advancedFilterItems(items, searchCriteria);
+    }
+    // If no URL parameters, initialize modal with 3 empty rows
+    else if (searchRows) {
+        for (let i = 0; i < 3; i++) {
+            addSearchRow();
+        }
+    }
+    
+    // Add form submit handler for Enter key
+    const advancedSearchForm = document.getElementById('advancedSearchForm');
+    if (advancedSearchForm) {
+        advancedSearchForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            submitAdvancedSearch();
+        });
+    }
+});
 </script>
