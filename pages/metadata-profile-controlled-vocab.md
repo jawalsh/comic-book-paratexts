@@ -22,6 +22,7 @@ credits: true
 - [`name of author`](/cbp/search/index.html?q=paratext_type:name of author)
 - [`note`](/cbp/search/index.html?q=paratext_type:note)
 - [`please-insert`](/cbp/search/index.html?q=paratext_type:please-insert)
+    - A short text that summarizes the work to work it refers, originally separate sheets of paper inserted in a work for the benefit of potential reviewers. “A short text (generally between a half page and a full page) describing, by means of a summary or in some other way, and most often in a value-enhancing manner, the work to which it refers” (Genette, pp. 104-105).
 - [`preface`](/cbp/search/index.html?q=paratext_type:preface)
 - [`public authorial epitext`](/cbp/search/index.html?q=paratext_type:public authorial epitext)
 - [`publisher’s peritext`](/cbp/search/index.html?q=paratext_type:publisher’s peritext)
@@ -50,3 +51,8 @@ credits: true
 - [`reader-contributed content`](/cbp/search/index.html?q=tag:reader-contributed content) 
 - [`reference`](/cbp/search/index.html?q=tag:reference) 
 - [`war`](/cbp/search/index.html?q=tag:war) 
+
+
+## Works Cited
+
+<div class="bibl">Genette, G. (1997). _Paratexts: Thresholds of Interpretation_ (J. E. Lewin, Trans.). Cambridge UP.</div> 
