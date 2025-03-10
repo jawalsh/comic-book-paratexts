@@ -9,7 +9,9 @@ credits: true
 ## Paratext types
 
 - [`advertisement`](/cbp/search/index.html?q=paratext_type:advertisement)
-- [`afterword`](/cbp/search/index.html?q=paratext_type:afterword)
+	- A commercial advertisment for a product or service.
+- [`postface`](/cbp/search/index.html?q=paratext_type:afterword)
+- A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (161)
 - [`authorial epitext`](/cbp/search/index.html?q=paratext_type:authorial epitext)
 - [`correspondence`](/cbp/search/index.html?q=paratext_type:correspondence)
 - [`cover`](/cbp/search/index.html?q=paratext_type:cover)
@@ -24,6 +26,7 @@ credits: true
 - [`please-insert`](/cbp/search/index.html?q=paratext_type:please-insert)
     - A short text that summarizes the work to work it refers, originally separate sheets of paper inserted in a work for the benefit of potential reviewers. “A short text (generally between a half page and a full page) describing, by means of a summary or in some other way, and most often in a value-enhancing manner, the work to which it refers” (Genette, pp. 104-105).
 - [`preface`](/cbp/search/index.html?q=paratext_type:preface)
+	- An introductory text, “consisting of discourse produced on the subjecte of the text that follows … it.” (Genette, p. 161)
 - [`public authorial epitext`](/cbp/search/index.html?q=paratext_type:public authorial epitext)
 - [`publisher’s peritext`](/cbp/search/index.html?q=paratext_type:publisher’s peritext)
 - [`solicitation`](/cbp/search/index.html?q=paratext_type:solicitation)
