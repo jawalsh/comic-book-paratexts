@@ -9,11 +9,12 @@ credits: true
 ## Paratext types
 
 - [`advertisement`](/cbp/search/index.html?q=paratext_type:advertisement)
-	- A commercial advertisment for a product or service.
+	- A commercial advertisment for a product or service. 
 - [`postface`](/cbp/search/index.html?q=paratext_type:afterword)
 - A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (161)
 - [`authorial epitext`](/cbp/search/index.html?q=paratext_type:authorial epitext)
 - [`correspondence`](/cbp/search/index.html?q=paratext_type:correspondence)
+	- Correspondence, typically between readers and publishers, editors, creators. Often found on “fan mail” or “letters of comment” pages in American comic books. 
 - [`cover`](/cbp/search/index.html?q=paratext_type:cover)
 - [`dedication`](/cbp/search/index.html?q=paratext_type:dedication)
 - [`documentary epitext`](/cbp/search/index.html?q=paratext_type:documentary epitext) (remove)
@@ -29,6 +30,15 @@ credits: true
 	- An introductory text, “consisting of discourse produced on the subjecte of the text that follows … it.” (Genette, p. 161)
 - [`public authorial epitext`](/cbp/search/index.html?q=paratext_type:public authorial epitext)
 - [`publisher’s peritext`](/cbp/search/index.html?q=paratext_type:publisher’s peritext)
+	-  Paratexts that may be attributed to the publisher (rather than the author/artist). Genette includes things like the size and format of a book, the series to which a book belongs, and the “cover and its appendages.” Of course, in comics the cover is not strictly a publisher’s paratext, but can include substantial content from the writer, artist, and other creators. Genette describes the publisher’d paratext as  
+> the whole zone of the peritext that is the direct and principal (but not exclusive)
+> responsibility of the publisher (or perhaps, to be more abstract
+> but also more exact, of the publishing house) - that is, the zone
+> that exists merely by the fact that a book is published and
+> possibly republished and offered to the public in one or several
+> more or less varied presentations. The word zone indicates that
+> the characteristic feature of this aspect of the paratext is basically
+> spatial and material. 
 - [`solicitation`](/cbp/search/index.html?q=paratext_type:solicitation)
 - [`table of contents`](/cbp/search/index.html?q=paratext_type:table of contents)
 - [`title`](/cbp/search/index.html?q=paratext_type:title)
