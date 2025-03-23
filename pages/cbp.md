@@ -23,7 +23,7 @@ The table of contents of Genette's book is a sort of taxonomy of paratexts, with
 
 <!-- table of contents -->
 
-In exploring the different types of paratexts, Genette also discusses the *function* of each particlar type. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
+In exploring the different types of paratexts, Genette also discusses the *function* of each particular type. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
 
 Comics include many of the types of paratexts that Genette explores in traditional literary texts, but comics also include distinct types — such as peritextual correspondence, or fan mail — that are not present in the same way in the traditional literary texts that concern Genette.
 
@@ -31,7 +31,7 @@ Genette divides the paratext into two general categories, writing, “paratext =
 
 > Within the same volume are elements such as the title or the preface and sometimes elements inserted into the interstices of the text, such as chapter titles or certain notes (Genette, pp. 4-5).
 
-The second category, _**epitexts**_, identities those paratexts that exist outside the physical volume (or floppy comic): 
+The second category, _**epitexts**_, identifies those paratexts that exist outside the physical volume (or floppy comic): 
 
 > [A]ll those messages that, at least originally, are located outside the book, generally with the backing of the media (interviews, conversations), or under cover of private communication (letters, diaries, and others) (Genette, p. 5)
 
@@ -47,7 +47,7 @@ Some comparative examples from traditional literary texts and comics will help i
 
 In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy’s 19th-century struggles for independence. The cover—a paratext of _Songs Before Sunrise_—was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a leading member of the Pre-Raphaelite Brotherhood, an influential group of young, rebellious artists. The cover design by Rossetti acknowledges and emphasizes Swinburne’s personal friendship with Rossetti and his affiliation with the Pre-Raphaelite artists and poets. The paratext is _evidence_ of these relationships.
 
-A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover below includes the series title: “Captain America”; a story title: “‘Madbomb’: It Can Destroy the World!”; biblographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); the price: “25¢”; a content advisory: “Approved by the Comics Code Authority”; artists’ names: “J. Kirby + J. Romita”, and a publisher’s announcement on the return of longtime Marvel artist Jack Kirby: “King Kirby is back -- and greater than ever!”. From 1971-1975, Kirby left Marvel to work for rival DC Comics, and his departure and return are two highlights in a complex tale of the industries mistreatment of an anknowledged genius of the artform. 
+A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover below includes the series title: “Captain America”; a story title: “‘Madbomb’: It Can Destroy the World!”; bibliographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); the price: “25¢”; a content advisory: “Approved by the Comics Code Authority”; artists’ names: “J. Kirby + J. Romita”, and a publisher’s announcement on the return of longtime Marvel artist Jack Kirby: “King Kirby is back -- and greater than ever!”. From 1971-1975, Kirby left Marvel to work for rival DC Comics, and his departure and return are two highlights in a complex tale of the industries mistreatment of an unacknowledged genius of the artform. 
 
 {% include feature/image.html objectid="cbp_0901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
@@ -61,7 +61,7 @@ The rather inconspicuous seal of the Comics Code Authority, found on the covers 
 
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision." %}
 
-Thus, a “simple” comic book cover both provides important bibliographic and commericial details and gestures towards the complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
+Thus, a “simple” comic book cover both provides important bibliographic and commercial details and gestures towards the complex narratives of Kirby’s life and career and the battles that led to the creation of the Comics Code Authority. 
 
 #### Title pages
 
@@ -69,7 +69,7 @@ The interior title page for a 19th-century book of poetry contains a great deal 
 
 {% include feature/image.html objectid="assets/img/swinburne-erechtheus-title.jpg" width="75" alt="The title pages from Algernon Charles Swinburne’s Erechtheus (1876)." caption="The title pages from Algernon Charles Swinburne’s Erechtheus (1876). "%}
 
-The interior splash page in a comic is in many ways analagous to the title page of a tradtional literary work. The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. 
+The interior splash page in a comic is in many ways analogous to the title page of a traditional literary work. The interior splash page, a standard feature of many mainstream commercial comics, repeats information and partexts found on the cover, such as the publisher, the name of the creators, and the story title. 
 
 {% include feature/image.html objectid="cbp_0910" width="75" alt="A splash page, or title page, from Captain America #193 (January 1976)." caption="A splash page, or title page, from Captain America #193 (January 1976)." %}
 
@@ -77,7 +77,7 @@ However, commonly, the interior story title is a variant of the title found on t
 
 {% include feature/image.html objectid="cbp_0911" width="75" alt="A title from Captain America #193 (January 1976)." caption="A title from Captain America #193 (January 1976)." %}
 
-The indicia, also typically found on the interior splash page, includes imortant bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
+The indicia, also typically found on the interior splash page, includes important bibliographic information include the publisher, publisher location and address, volume and issue number, date, and legal disclaimers.
 
 {% include feature/image.html objectid="cbp_0116" width="75" alt="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." caption="The indicia, rich with bibliographic and legal information, from Fantastic Four #54 (December 1966)." %}
 
@@ -90,13 +90,13 @@ Genette’s paratext categories include “intertitles,” or interior titles su
 {% include feature/image.html objectid="cbp_0915" width="75" alt="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox." caption="An “intertitle,” or interior title, introducing a story in the anthology title Fantastic Comics #15 (February 1941). Fox."%}
 
 #### Dedications
-Dedications are another type of paratext discussed by Genette and a common feature of traditional literary texts. Again we draw examples from Swinburne. In the first case we see the dedicattion to the painter Edward Burne Jones, a close friend of Swinburne. The dedication is from Swinburne’s most famous volume, _Poems and Ballads_ (1866). A second example is an implied dedication to one of Swinburne’s literary heroes, Victor Hugo, on the occasion of Hugo’s 78th birthday.
+Dedications are another type of paratext discussed by Genette and a common feature of traditional literary texts. Again we draw examples from Swinburne. In the first case we see the dedication to the painter Edward Burne Jones, a close friend of Swinburne. The dedication is from Swinburne’s most famous volume, _Poems and Ballads_ (1866). A second example is an implied dedication to one of Swinburne’s literary heroes, Victor Hugo, on the occasion of Hugo’s 78th birthday.
 
 {% include feature/image.html objectid="assets/img/swinburne-pb-dedication.jpg" width="75" alt="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866)" caption="Dedication to Edward Burne-Jones from Algernon Charles Swinburne’s Poems and Ballads (1866). Image from the Internet Archive: https://archive.org/details/b29012685/."%}
 
-{% include feature/image.html objectid="assets/img/swinburne-sots-birthday-ode.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occassion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
+{% include feature/image.html objectid="assets/img/swinburne-sots-birthday-ode.jpg" width="75" alt="“Birthday Ode” written by Algernon Charles Swinburne on the occasion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880)." caption="“Birthday Ode” written by Algernon Charles Swinburne on the occasion of Victor Hugo’s 78th birthday. From Swinburne’s Songs of the Springtides (1880). Image from the HathiTrust Digital Library: https://hdl.handle.net/2027/mdp.39015049022638."%}
 
-While they are not as frequent as in non-graphic literary texts such as novels, plays, and volumes of poetry, dedications are also present in comics books. As in the three examples below, comic book dedictions often indicate a debt of gratitude to comics creators from an earlier generation.  In the first example, writer Roy Thomas dedications a Sub-Mariner story from _Sub-Mariner_ #32 (June 1971) to Bill Everett, who in 1939 created the Sub-Mariner character. Everett passed away less than two years after the publication of this dedication, in February 1973, at the age of 55. 
+While they are not as frequent as in non-graphic literary texts such as novels, plays, and volumes of poetry, dedications are also present in comics books. As in the three examples below, comic book dedications often indicate a debt of gratitude to comics creators from an earlier generation.  In the first example, writer Roy Thomas dedications a Sub-Mariner story from _Sub-Mariner_ #32 (June 1971) to Bill Everett, who in 1939 created the Sub-Mariner character. Everett passed away less than two years after the publication of this dedication, in February 1973, at the age of 55. 
 
 {% include feature/image.html objectid="cbp_0006" width="75" alt="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics." caption="A dedication to Bill Everett, creator of Sub-Mariner, in Sub-Mariner #38 (June 1971). Marvel Comics."%}
 
@@ -200,7 +200,7 @@ Genette defines a note as follows: “A note is a statement of variable length (
 
 {% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
 
-However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educaton the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
+However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educate the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
 
 {% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
@@ -216,13 +216,13 @@ Genette does not devote a full chapter or section of his seminal book to “docu
 
 > Senancour's Oberman includes a sort of thematic index called “Indications,” arranged in alphabetical order (*Adversité, Aisance, Amitié* [Adversity, Ease, Friendship] …); *Moby-Dick* opens with a comprehensive documentary dossier about whales; Updike's *Bech: A Book* ends with an imaginary bibliography of works by and studies about the hero (the studies are attributed apocryphally to real critics); the “appendix” of Perec's *Vie mode d’emploi* [*Life: A User's Manual*] contains a floor plan of the building, an index of persons and places, a chronology, a list of authors quoted, and an “Alphabetical Checklist of Some of the Stories Narrated in this Manual.” Novelistic works like Zola's *Rougon-Macquart*, Thackeray's *Henry Esmond*, Nabokov's *Ada*, or Renaud Camus's *Roman roi* contain family trees constructed by the authors themselves. For the *Portable Faulkner* of 1946, Faulkner drew a map of Yoknapatawpha County; and Umberto Eco drew a plan of the abbey in The *Name of the Rose*. (pp. 404-405)
 
-Documentary paratexts are not uncommon in comics, and they are of particular interests because, like epigraphs and notes, they are generally created by the creators (writers and artists) of the main comics narrative, and they are conceptually coloser to the “text” than many other comic book paratexts, like fan correspondence and advertisements. For instance, a sectional view of the Baxter Building, headquarters of Marvel’s Fantastic Four superhero team, provides spatial contexts to narratives about the Fantastic Four. These sectional views are intended as persistent reference material for readers. An [example by Stan Lee and Jack Kirby from 1963](items/cbp_0924.html) implores readers to “Save for future reference!” [Another, by Marv Wolfman and Kieth Pollard, from 1968](items/cbp_0927.html) announces itself as a “handy-dandy reference.”  Similarly, a map of the “Hyperborian Age of Conan” adds spatial contexts to stories about Robert E. Howards fictional world and its inhabitants. 
+Documentary paratexts are not uncommon in comics, and they are of particular interests because, like epigraphs and notes, they are generally created by the creators (writers and artists) of the main comics narrative, and they are conceptually closer to the “text” than many other comic book paratexts, like fan correspondence and advertisements. For instance, a sectional view of the Baxter Building, headquarters of Marvel’s Fantastic Four superhero team, provides spatial contexts to narratives about the Fantastic Four. These sectional views are intended as persistent reference material for readers. An [example by Stan Lee and Jack Kirby from 1963](items/cbp_0924.html) implores readers to “Save for future reference!” [Another, by Marv Wolfman and Kieth Pollard, from 1968](items/cbp_0927.html) announces itself as a “handy-dandy reference.”  Similarly, a map of the “Hyperborian Age of Conan” adds spatial contexts to stories about Robert E. Howards fictional world and its inhabitants. 
 
-{% include feature/image.html objectid="cbp_0924" width="75" alt="Sectional view of the the Baxter Building, headquarters of the Fantastic Four, from Fantastic Four Annual #1 (1963). Marvel Comics." caption="Sectional view of the the Baxter Building, headquarters of the Fantastic Four, from Fantastic Four Annual #1 (1963)"%}
+{% include feature/image.html objectid="cbp_0924" width="75" alt="Sectional view of the Baxter Building, headquarters of the Fantastic Four, from Fantastic Four Annual #1 (1963). Marvel Comics." caption="Sectional view of the Baxter Building, headquarters of the Fantastic Four, from Fantastic Four Annual #1 (1963)"%}
 
 {% include feature/image.html objectid="cbp_0071" width="75" alt="“The Hyperborian Age of Conan Circa 10,000 B.C.: From a map prepared by Robert E. Howard.” Savage Sword of Conan #14 (September 1976). Marvel Comics." caption="“The Hyperborian Age of Conan Circa 10,000 B.C.: From a map prepared by Robert E. Howard.” Savage Sword of Conan #14 (September 1976). Marvel Comics."%}
 
-Less narrative-focused documentary paratexts include “pin-up” pages of popular characters, often with explanatory text and bibliographic details about notabler appearances of the character. Like the sectional views of the Fantastic Four’s Baxter building, these pin-ups also serve as reference material, with a short biography of the featured character and bibliographic information about the character’s first appearance.
+Less narrative-focused documentary paratexts include “pin-up” pages of popular characters, often with explanatory text and bibliographic details about notable appearances of the character. Like the sectional views of the Fantastic Four’s Baxter building, these pin-ups also serve as reference material, with a short biography of the featured character and bibliographic information about the character’s first appearance.
 
 {% include feature/image.html objectid="cbp_0932" width="75" alt="Pin-up page featuring the Lizard from Amazing Spider-Man Annual #1 (1964). Marvel Comics." caption="Pin-up page featuring the Lizard from Amazing Spider-Man Annual #1 (1964). Marvel Comics."%}
 
