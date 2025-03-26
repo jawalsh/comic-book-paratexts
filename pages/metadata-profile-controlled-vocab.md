@@ -20,9 +20,9 @@ credits: true
   	- The cover of the text or comic. For traditional American “floppy” comics, the cover is typcially the from recto page of the comic, which may include a cover image, magazine and story title, price, bar code, and more. Some comics include a “wraparound” cover with the image continuing on the back cover, the final verso page of the comic. “Graphic novels,” trade paperbacks, and larger bound reprints of comics often include more typical hard or soft book cover, with optional dust jacket or other appendages.
 - [`dedication`](/cbp/search/index.html?q=paratext_type:dedication)
 	- A note of dedication, typically near the beginning or end of the work.
-- [`documentary epitext`](/cbp/search/index.html?q=paratext_type:documentary epitext) (remove)
+- [`documentary epitext`](/cbp/search/index.html?q=paratext_type:documentary epitext)
   	- 
-- [`documentary paratext`](/cbp/search/index.html?q=paratext_type:documentary paratext) (remove)
+- [`documentary paratext`](/cbp/search/index.html?q=paratext_type:documentary paratext)
   	- 
 - [`editorial`](/cbp/search/index.html?q=paratext_type:editorial)
 	- 
