@@ -11,7 +11,7 @@ credits: true
 - [`advertisement`](/cbp/search/index.html?q=paratext_type:advertisement)
 	- A commercial advertisment for a product or service. 
 - [`postface`](/cbp/search/index.html?q=paratext_type:afterword)
-	- A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (161)
+	- A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (Genette, p. 161)
 - [`authorial epitext`](/cbp/search/index.html?q=paratext_type:authorial epitext)
 	- Commentary by the author(s)/creator(s) about the text that occur outside the text. Genette defines epitexts as “[A]ll those messages that, at least originally, are located outside the book, generally with the backing of the media (interviews, conversations), or under cover of private communication (letters, diaries, and others)” (Genette, p. 5). For comics these authorial epitexts are frequently found in published interviews, social media commentary, blog posts, or in archival collection of letters, diaries, and other personal papers.
 - [`correspondence`](/cbp/search/index.html?q=paratext_type:correspondence)
@@ -21,11 +21,8 @@ credits: true
 - [`dedication`](/cbp/search/index.html?q=paratext_type:dedication)
 	- A note of dedication, typically near the beginning or end of the work.
 - [`documentary epitext`](/cbp/search/index.html?q=paratext_type:documentary epitext)
-  	- 
 - [`documentary paratext`](/cbp/search/index.html?q=paratext_type:documentary paratext)
-  	- 
 - [`editorial`](/cbp/search/index.html?q=paratext_type:editorial)
-	- 
 - [`epigraph`](/cbp/search/index.html?q=paratext_type:epigraph)
 - [`intertitle`](/cbp/search/index.html?q=paratext_type:intertitle)
   	- Internal titles, chapter or section titles. 
