@@ -11,19 +11,29 @@ credits: true
 - [`advertisement`](/cbp/search/index.html?q=paratext_type:advertisement)
 	- A commercial advertisment for a product or service. 
 - [`postface`](/cbp/search/index.html?q=paratext_type:afterword)
-- A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (161)
+	- A concluding text, “consisting of discourse produced on the subjecte of the text that …precedes it.” (161)
 - [`authorial epitext`](/cbp/search/index.html?q=paratext_type:authorial epitext)
+	- Commentary by the author(s)/creator(s) about the text that occur outside the text. Genette defines epitexts as “[A]ll those messages that, at least originally, are located outside the book, generally with the backing of the media (interviews, conversations), or under cover of private communication (letters, diaries, and others)” (Genette, p. 5). For comics these authorial epitexts are frequently found in published interviews, social media commentary, blog posts, or in archival collection of letters, diaries, and other personal papers.
 - [`correspondence`](/cbp/search/index.html?q=paratext_type:correspondence)
 	- Correspondence, typically between readers and publishers, editors, creators. Often found on “fan mail” or “letters of comment” pages in American comic books. 
 - [`cover`](/cbp/search/index.html?q=paratext_type:cover)
+  	- The cover of the text or comic. For traditional American “floppy” comics, the cover is typcially the from recto page of the comic, which may include a cover image, magazine and story title, price, bar code, and more. Some comics include a “wraparound” cover with the image continuing on the back cover, the final verso page of the comic. “Graphic novels,” trade paperbacks, and larger bound reprints of comics often include more typical hard or soft book cover, with optional dust jacket or other appendages.
 - [`dedication`](/cbp/search/index.html?q=paratext_type:dedication)
+	- A note of dedication, typically near the beginning or end of the work.
 - [`documentary epitext`](/cbp/search/index.html?q=paratext_type:documentary epitext) (remove)
+  	- 
 - [`documentary paratext`](/cbp/search/index.html?q=paratext_type:documentary paratext) (remove)
+  	- 
 - [`editorial`](/cbp/search/index.html?q=paratext_type:editorial)
+	- 
 - [`epigraph`](/cbp/search/index.html?q=paratext_type:epigraph)
 - [`intertitle`](/cbp/search/index.html?q=paratext_type:intertitle)
+  	- Internal titles, chapter or section titles. 
 - [`name of author`](/cbp/search/index.html?q=paratext_type:name of author)
+  	- The name of the author appearing in the text. In comics, there are often many “authors,” or creators involved in the production of the comic, including writer, artist, inker, letterer, colorist. 
 - [`note`](/cbp/search/index.html?q=paratext_type:note)
+	- An explanatory statement, typically linked to a particular segement of a text. Genette defines a note as “a
+statement of variable length (one word is enough) connected to a more or less definite segment of text and either placed opposite or keyed to this segment” (p. 319).
 - [`please-insert`](/cbp/search/index.html?q=paratext_type:please-insert)
     - A short text that summarizes the work to work it refers, originally separate sheets of paper inserted in a work for the benefit of potential reviewers. “A short text (generally between a half page and a full page) describing, by means of a summary or in some other way, and most often in a value-enhancing manner, the work to which it refers” (Genette, pp. 104-105).
 - [`preface`](/cbp/search/index.html?q=paratext_type:preface)
