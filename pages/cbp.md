@@ -11,7 +11,7 @@ credits: true
 ## “Here’s What You Get”:<br/>An Introduction to Comic Book Paratexts
 **John A. Walsh, Indiana University**
 
-When a reader picks up a traditional floppy comic, a trade paperback collecting multiple issues of a comic that initially appeared in floppy form, or a long-form comic originally published as a hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, the reader will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But the reader will also find other content in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get” when one consumes the whole of a comic book document. 
+When a reader picks up a traditional single-issue floppy comic, a trade paperback collecting multiple issues of a comic that initially appeared in floppy form, or a long-form comic originally published as a hardback book, the reader experiences a wide array of graphic and textual phenomena. Of course, the reader will encounter the expected panels, cartooning, word balloons, and captions that we recognize as comics, or sequential art. But the reader will also find other content in and around those comics — fan mail, advertisements, and publisher news in features such as Marvel’s “Bullpen Bulletins” or DC’s “Direct Currents.” This essay explores “what you get”— what is included and communicated—through the entirety of the comic book document. 
 
 In literary studies, the paratext refers to textual and documentary components surrounding or otherwise associated with a text. Paratexts—extensively explored in Gérard Genette’s _Paratexts: Thresholds of Interpretation_ (1987, 1997)—include titles, dust jackets, intertitles (such as section or chapter titles), prefaces, tables of contents, indices, certain types of notes, epigraphs, publisher reviews, auto-reviews, interviews and conversations with authors and creators, or relevant text from letters and private correspondence. 
 
@@ -24,6 +24,8 @@ The table of contents of Genette's book is a sort of taxonomy of paratexts, with
 <!-- table of contents -->
 
 In exploring the different types of paratexts, Genette also discusses the *function* of each particular type. For instance, Genette writes, “[T]he basic function of the original authorial note is to serve as a supplement, sometimes a digression, very rarely a commentary” (p. 327).
+
+While Genette focuses primarily on traditional literary texts, many of his categories translate—sometimes with intriguing variation—into the world of comics. 
 
 Comics include many of the types of paratexts that Genette explores in traditional literary texts, but comics also include distinct types — such as peritextual correspondence, or fan mail — that are not present in the same way in the traditional literary texts that concern Genette.
 
@@ -47,7 +49,7 @@ Some comparative examples from traditional literary texts and comics will help i
 
 In 1871, Victorian poet Algernon Charles Swinburne published _Songs Before Sunrise_, a collection of poems, including many political poems supporting Italy’s 19th-century struggles for independence. The cover—a paratext of _Songs Before Sunrise_—was designed by Swinburne’s close friend, poet and artist Dante Gabriel Rossetti. Rossetti was a Italian-British poet and artist and a leading member of the Pre-Raphaelite Brotherhood, an influential group of young, rebellious artists. The cover design by Rossetti acknowledges and emphasizes Swinburne’s personal friendship with Rossetti and his affiliation with the Pre-Raphaelite artists and poets. The paratext is _evidence_ of these relationships.
 
-A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover below includes the series title: “Captain America”; a story title: “‘Madbomb’: It Can Destroy the World!”; bibliographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); the price: “25¢”; a content advisory: “Approved by the Comics Code Authority”; artists’ names: “J. Kirby + J. Romita”, and a publisher’s announcement on the return of longtime Marvel artist Jack Kirby: “King Kirby is back -- and greater than ever!”. From 1971-1975, Kirby left Marvel to work for rival DC Comics, and his departure and return are two highlights in a complex tale of the industries mistreatment of an unacknowledged genius of the artform. 
+A cover from a 1970s Marvel comic book explicitly and implicitly provides a wealth of information. The cover below includes the series title: “Captain America”; a story title: “‘Madbomb’: It Can Destroy the World!”; bibliographic information, such as publisher (“Marvel Comics Group”) and issue number (“193 JAN”); the price: “25¢”; a content advisory: “Approved by the Comics Code Authority”; artists’ names: “J. Kirby + J. Romita”, and a publisher’s announcement on the return of longtime Marvel artist Jack Kirby: “King Kirby is back -- and greater than ever!”. From 1971-1975, Kirby left Marvel to work for rival DC Comics, and his departure and return are two highlights in a complex tale of the industry’s mistreatment of an unacknowledged genius of the art form. 
 
 {% include feature/image.html objectid="cbp_0901" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
@@ -57,7 +59,7 @@ This cover also includes information on creators not found elsewhere in the docu
 
 {% include feature/image.html objectid="cbp_0905" width="75" alt="Cover to Captain America #193 (January 1976), by Jack Kirby and John Romita." caption="Artists’ signatures on the cover Captain America #193 (January 1976), by Jack Kirby and John Romita."%}
 
-The rather inconspicuous seal of the Comics Code Authority, found on the covers of American comics from 1955 into the early 21st century, signals the fraught and complicated history of the 1950s campaign against comics, championed by psychologist Frederic Wertham. 
+The rather inconspicuous seal of the Comics Code Authority, found on the covers of American comics from 1955 into the early 21st century, signals the fraught history of the 1950s anti-comics campaigns championed by psychologist Frederic Wertham. 
 
 {% include feature/image.html objectid="cbp_0908" width="75" alt="Code of the Comics Magazines Association of America, Inc. 1971 Revision." caption="Code of the Comics Magazines Association of America, Inc. 1971 Revision." %}
 
@@ -166,7 +168,7 @@ Below is the full text of Shelley’s poem:
 
 {% include feature/image.html objectid="assets/img/swinburne-erechtheus-advert.jpg" alt="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." caption="The first page of a 32-page advertisement,  “A List of Books published by Chatto &amp; Windus.” The list is found at the back of Swinburne’s Erechtheus, a long poem published by Swinburne’s long-time publisher, Chatto &amp; Windus." %}
 
-The paratexts of comics will also include lists of available works by the comics publishers. Two examples below, a “Mighty Marvel Checklist” from Marvel’s “Bullpen Bulletins” of January 1968 and an advertisement for subscriptions to Marvel comics and comics magazines, include such lists.
+The paratexts of comics will also include lists of available works by the comics publishers. Two examples below, a “Mighty Marvel Checklist” from Marvel’s “Bullpen Bulletins” from January 1968 and an advertisement for subscriptions to Marvel comics and comics magazines, include such lists.
 
 {% include feature/image.html objectid="cbp_0043" width="75" alt="Publisher’s peritext: “Marvel Bullpen Bulletins.” Daredevil #36 (January 1968). Marvel Comics." caption="“Mighty Marvel Checklist” in Marvel’s “Bullpen Bulletins” from Daredevil #36 (January 1968)." %}
 
@@ -200,7 +202,7 @@ Genette defines a note as follows: “A note is a statement of variable length (
 
 {% include feature/pdf.html objectid="cbp_0509" alt="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." caption="The first three pages of notes from Derf Backderf’s documentary comic Kent State (2020)." %}
 
-However, most comic book’s are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educate the reader about the long serial continuity of comics, the expansive fictional worlds in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
+However, most comic books are not “discursive” documents. They are works of fiction. And many are serial works of fiction. Many of the notes in serial comics function to educate the reader about the long serial continuity of comics, the expansive fictional universes in which many comics take place. They explain events that occur in previous issues of the serial publicaton or in separate publications from the same publisher and fictional world or universe. 
 
 {% include feature/image.html objectid="cbp_0038" width="75" alt="Note: Marvel Spotlight #20 (February 1975). Marvel Comics." caption="Note: Marvel Spotlight #20 (February 1975). Marvel Comics. The note refers to events from Marvel Spotlight #16 (July 1974)" %}
 
