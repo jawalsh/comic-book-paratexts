@@ -20,3 +20,9 @@ The editor has been assisted by a wonderful team of undergraduate and graduate s
 - Callie Martindale
 - Victor Wynn
 - Brandon Ison
+
+## Acknowledgments
+
+Editor John A. Walsh and the CBP Team want to express special thanks to the team behind [CollectionBuilder](https://collectionbuilder.github.io), the excellent open source framework for creating digital collection and exhibit websites.
+
+ 
